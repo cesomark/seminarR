@@ -130,13 +130,45 @@ getVersion <- function(title) {
   } else {
     NA
   }
-  
-  
 }
 
 getExtension <- function(title) {
   ext = str_split(title, "\\.")
   ext[[1]][[length(ext[[1]])]]
+}
+
+getShortAuthor <- function(author) {
+  if(is.na(author)) {
+    NA
+  } 
+  else {
+    keywords <- c(" feat", " ft", " presents", " pres", " with", " introduce")
+    result <- NA
+    for(i in 1:length(keywords)) {
+      if(!is.na(str_locate(author, keywords[i])[1])) {
+        result <- (paste(str_split(author, keywords[i])[[1]][[1]], "_", sep=""))
+        break
+      }
+    }
+    result
+  }
+}
+
+getShortTitle <- function(title) {
+  hasPars <- str_locate(title, " \\(")
+  if(!is.na(hasPars[1])) {
+    paste(str_split(title, " \\(")[[1]][[1]], "_", sep="")
+  } 
+  else {
+    NA
+  }
+}
+
+getShortVersion <- function(version) {
+  hasPars <- str_locate(version, " \\(")
+  if(!is.na(hasPars[1])) {
+    paste(str_split(version, " \\(")[[1]][[1]], "_", sep="")
+  }
 }
 
 getSongData <- function(title, folder) {
@@ -145,8 +177,11 @@ getSongData <- function(title, folder) {
   tempList$year <- getYearOfTrack(title, folder)
   tempList$prefix <- getPrefix(title)
   tempList$author <- getAuthor(title)
+  tempList$authorShort <- getShortAuthor(tempList$author)
   tempList$title <- getSongTitle(title)
+  tempList$titleShort <- getShortTitle(tempList$title)
   tempList$version <- getVersion(title)
+  tempList$versionShort <- getShortVersion(tempList$version)
   tempList$extension <- getExtension(title)
   
   tempList
