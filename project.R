@@ -101,14 +101,11 @@ getAuthor <- function(title) {
 
 getSongTitle <- function(title) {
   if(!is.na(str_locate(title, " - ")[1])) {
-    title <- str_split(title, " - ")[[1]][[2]]
+    title <- str_sub(title, str_locate(title, " - ")[1] + 3)
   }
-  #if(!is.na(str_locate(title, " \\(")[1])) {
-  #  title <- str_split(title, " \\(")[[1]][[1]]
-  #}
   #Remove version (if it exists)
   if(!is.na(str_locate(title, "\\(([^)]*)\\)[^(]*$")[1])) {
-    title <- str_sub(title, 1, str_locate(title, "\\(([^)]*)\\)[^(]*$")[1]-2)
+    title <- str_sub(title, 1, str_locate(title, "\\(([^)]*)\\)[^(]*$")[1]-1)
   }
     
   #If there is no version, cut off file extension from title
@@ -117,7 +114,8 @@ getSongTitle <- function(title) {
   } else  if(!is.na(str_locate(title, "\\..{3}$")[1])) {
     title <- str_split(title, "\\..{3}$")[[1]][[1]]
   }
-  
+
+  title <- str_trim(title)
   title
 }
 
@@ -139,35 +137,91 @@ getExtension <- function(title) {
 
 getShortAuthor <- function(author) {
   if(is.na(author)) {
-    NA
+    return(NA)
   } 
-  else {
-    keywords <- c(" feat", " ft", " presents", " pres", " with", " introduce")
-    result <- NA
+ 
+  keywords <- c(" feat", " ft", " presents", " pres", " with", " introduce")
+  result <- NA
+  for(i in 1:length(keywords)) {
+    if(!is.na(str_locate(author, keywords[i])[1])) {
+      result <- (paste(str_split(author, keywords[i])[[1]][[1]], "_", sep=""))
+      break
+    }
+  }
+  
+  #Check, if name is too long and then remove vs and &.
+  #Check both "result" and "autor", depending on if the author string had a keyword match
+  if(is.na(result)) {
+    result <- author
+  }
+  if(str_length(result) > 30) {
+    keywords <- c(" vs", " \\&")
     for(i in 1:length(keywords)) {
-      if(!is.na(str_locate(author, keywords[i])[1])) {
+      if(!is.na(str_locate(result, keywords[i])[1])) {
         result <- (paste(str_split(author, keywords[i])[[1]][[1]], "_", sep=""))
-        break
       }
     }
+  } 
+
+  if(author == result) {
+    NA
+  } else {
     result
   }
+  
 }
 
 getShortTitle <- function(title) {
-  hasPars <- str_locate(title, " \\(")
-  if(!is.na(hasPars[1])) {
-    paste(str_split(title, " \\(")[[1]][[1]], "_", sep="")
+  if(is.na(title)) {
+    return(NA)
   } 
-  else {
-    NA
+  
+  fullTitle <- title
+  
+  hasPars <- str_locate(title, " \\(")
+  
+  if(!is.na(hasPars[1])) {
+    title <- paste(str_split(title, " \\(")[[1]][[1]], "_", sep="")
   }
+  
+  limit <- 20
+  if(str_length(title) > limit) {
+    title <- str_sub(title, 1, limit)
+    title <- str_replace(title, " \\S*$", "")
+    title <- paste(title, "_", sep="")
+  }
+  
+  if(fullTitle == title) {
+    NA
+  } else {
+    title
+  }
+  
 }
 
 getShortVersion <- function(version) {
+  if(is.na(version)) {
+    return(NA)
+  } 
+  
+  fullVersion <- version
+  
   hasPars <- str_locate(version, " \\(")
   if(!is.na(hasPars[1])) {
-    paste(str_split(version, " \\(")[[1]][[1]], "_", sep="")
+    version <- paste(str_split(version, " \\(")[[1]][[1]], "_", sep="")
+  }
+  
+  limit <- 30
+  if(str_length(version) > limit) {
+    version <- str_sub(version, 1, limit)
+    version <- str_replace(version, " \\S*$", "")
+    version <- paste(version, "_", sep="")
+  }
+  
+  if(fullVersion == version) {
+    NA
+  } else {
+    version
   }
 }
 
@@ -193,18 +247,5 @@ folderNames <- list.files("./tracks", full.names = TRUE)
 songDataContainer <- initializeData(folderNames)
 #songDataContainer
 
+#sort songs not working atm!
 #sortSongs()
-
-
-
-
-#---------- Stuff -------------------
-#--Get folder name for 30th list:
-#songList[[30]]$folderName
-#--Get folder content for 30th list:
-#songList[[30]]
-#--Get 5th song in list 30:
-#songList[[30]][[1]][[5]]
-
-
-
