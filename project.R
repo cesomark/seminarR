@@ -29,40 +29,40 @@ initializeSongList <- function(folderNames) {
   tempList
 }  
 
-sortSongs <- function() {
-  #creating the destination folder once at the start
-  dir.create(file.path(getwd(), "sorted"), showWarnings = FALSE)
-  
-  for(i in 1:length(songList)) {
-    for(j in 1:length(songList[[i]][[1]])) {
-      
-      copySongToSortedFolder(songList[[i]][[1]][[j]], songList[[i]]$folderName)
-    }
-  }
-}
-
-copySongToSortedFolder <- function(title, folder) {
-  createFolderForSortedSong(title, folder)
-
-  file.copy(from=file.path(getwd(), getOldSongPath(title, folder)), 
-            to=file.path(getwd(), getNewSongPath(title, folder)), 
-            overwrite = TRUE, recursive = FALSE, copy.mode = TRUE)
-}
-
-createFolderForSortedSong <- function(title, folder) {
-  year <- getYearOfTrack(title, folder)
-  location <- paste("sorted", year, sep="/")
-  dir.create(file.path(getwd(), location), showWarnings = FALSE)
-}
-
-getOldSongPath <- function(title, folder) {
-  paste(folder, title, sep="/")
-}
-
-getNewSongPath <- function(title, folder) {
-  year <- getYearOfTrack(title, folder)
-  paste("sorted", year, title, sep="/")
-}
+# sortSongs <- function() {
+#   #creating the destination folder once at the start
+#   dir.create(file.path(getwd(), "sorted"), showWarnings = FALSE)
+# 
+#   for(i in 1:length(songList)) {
+#     for(j in 1:length(songList[[i]][[1]])) {
+# 
+#       copySongToSortedFolder(songList[[i]][[1]][[j]], songList[[i]]$folderName)
+#     }
+#   }
+# }
+# 
+# copySongToSortedFolder <- function(title, folder) {
+#   createFolderForSortedSong(title, folder)
+# 
+#   file.copy(from=file.path(getwd(), getOldSongPath(title, folder)),
+#             to=file.path(getwd(), getNewSongPath(title, folder)),
+#             overwrite = TRUE, recursive = FALSE, copy.mode = TRUE)
+# }
+# 
+# createFolderForSortedSong <- function(title, folder) {
+#   year <- getYearOfTrack(title, folder)
+#   location <- paste("sorted", year, sep="/")
+#   dir.create(file.path(getwd(), location), showWarnings = FALSE)
+# }
+# 
+# getOldSongPath <- function(title, folder) {
+#   paste(folder, title, sep="/")
+# }
+# 
+# getNewSongPath <- function(title, folder) {
+#   year <- getYearOfTrack(title, folder)
+#   paste("sorted", year, title, sep="/")
+# }
 
 getYearOfTrack <- function(title, folder) {
   titleIndex <- regexpr('[0-9][0-9][0-9][0-9]', folder)[1]
@@ -154,7 +154,9 @@ getShortAuthor <- function(author) {
   if(is.na(result)) {
     result <- author
   }
-  if(str_length(result) > 30) {
+  
+  limit <- 20
+  if(str_length(result) > limit) {
     keywords <- c(" vs", " \\&")
     for(i in 1:length(keywords)) {
       if(!is.na(str_locate(result, keywords[i])[1])) {
@@ -211,7 +213,7 @@ getShortVersion <- function(version) {
     version <- paste(str_split(version, " \\(")[[1]][[1]], "_", sep="")
   }
   
-  limit <- 30
+  limit <- 20
   if(str_length(version) > limit) {
     version <- str_sub(version, 1, limit)
     version <- str_replace(version, " \\S*$", "")
