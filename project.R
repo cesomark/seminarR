@@ -4,6 +4,42 @@ if("stringr" %in% rownames(installed.packages()) == FALSE) {
 }
 
 #-------- Helper Functions ----------
+parseORG <- function(fileLocation){
+  
+}
+
+updateORG <- function () {
+  if(file.exists("tracks.org")) {
+    
+   
+    
+    
+  } else {
+    file.create("tracks.org")
+  }
+  
+}
+
+checkIfSongInORG <- function(song) {
+  #write("test", "tracks.org", append = TRUE)
+  con = file("tracks.org", "r")
+  while ( TRUE ) {
+    line = readLines(con, n = 1)
+    if ( length(line) == 0 ) {
+      break
+    }
+    print(line)
+  }
+  
+  close(con)
+  
+  updateORGForSong(song)
+}
+
+updateORGForSong <- function(song) {
+  
+}
+
 initializeData <- function (folderNames) {
   songList <- initializeSongList(folderNames)
   
@@ -89,17 +125,98 @@ getPrefix <- function(title) {
   }
 }
 
-getAuthor <- function(title) {
-  if(is.na(str_locate(title, " - ")[1])) {
-    NA
-  } else {
+getAuthorInfo <- function(list, title) {
+  author <- NA
+  authorPlus <- NA
+  
+  if(!is.na(str_locate(title, " - ")[1])) {
     author <- str_split(title, " - ")[[1]]
-    author <- str_remove(author, "^._")
-    author[[1]]
+    author <- str_remove(author, "^._")[[1]]
+    
+    keywords <- c(" feat", " ft", " presents", " pres", " with", " introduce")
+    for(i in 1:length(keywords)) {
+      split <- str_locate(author, keywords[i])[1]
+      if(!is.na(split)) {
+        authorPlus <- str_sub(author, start=split+1)[[1]][[1]]
+        author <- str_sub(author, 1, split)[[1]][[1]]
+        
+        break
+      }
+    }
+    
+    limit <- 5
+    if(str_length(author) > limit) {
+    
+      keywords <- c(" vs", " \\&")
+      for(i in 1:length(keywords)) {
+        split <- str_locate(author, keywords[i])[1]
+        
+        if(!is.na(split)) {
+          if(is.na(authorPlus)) {
+            authorPlus <- str_sub(author, start=split+1)[[1]][[1]]
+          } else {
+            authorPlus <- paste(str_sub(title, start=split+1), authorPlus, sep="")
+          }
+          author <- str_sub(author, 1, split)[[1]][[1]]
+          
+          break
+        }
+      }
+    } 
   }
+  
+  list$author <- author
+  list$authorPlus <- authorPlus
+  list
 }
 
-getSongTitle <- function(title) {
+getTitleInfo <- function(list, title) {
+  fullTitle <- getFullTitle(title)
+  list <- addTitleInfo(list, fullTitle)
+  list
+}
+
+addTitleInfo <- function(list, title) {
+  if(is.na(title)) {
+    list$title <- NA
+    list$titlePlus <- NA
+    return(list)
+  } 
+  
+  titlePlus <- NA
+  
+  hasPars <- str_locate(title, " \\(")
+  
+  if(!is.na(hasPars[1])) {
+    splitTitle <- str_split(title, " \\(")
+
+    title <- paste(splitTitle[[1]][[1]], "", sep="")
+    titlePlus <- paste("(", splitTitle[[1]][[2]], sep="")
+
+  }
+  
+  #if the title is (still) too long, remove part of the title
+  limit <- 20
+  if(str_length(title) > limit+5) {
+    if(is.na(titlePlus)) {
+      titlePlus <- str_sub(title, start=limit+1)
+    } else {
+      titlePlus <- paste(str_sub(title, start=limit+1), titlePlus, sep="")
+    }
+    
+    title <- str_sub(title, 1, limit)
+
+    #remove the last word of a string
+    #title <- str_replace(title, " \\S*$", "")
+    #title <- paste(title, "_", sep="")
+  }
+  
+  list$title <- title
+  list$titlePlus <- titlePlus
+  list
+}
+
+getFullTitle <- function(title) {
   if(!is.na(str_locate(title, " - ")[1])) {
     title <- str_sub(title, str_locate(title, " - ")[1] + 3)
   }
@@ -119,15 +236,36 @@ getSongTitle <- function(title) {
   title
 }
 
-getVersion <- function(title) {
+getVersionInfo <- function(list, title) {
+  version <- NA
+  versionPlus <- NA
   if(!is.na(str_locate(title, "\\(([^)]*)\\)[^(]*$")[1])) {
+    #regexes to extract version
     version <- str_locate(title, "\\(([^)]*)\\)[^(]*$")
     version <- str_sub(title, version[1]+1, version[2])
     version <- str_split(version, "\\)\\.")[[1]][[1]]
-    version
-  } else {
-    NA
+    
+    hasPars <- str_locate(version, " \\(")
+    if(!is.na(hasPars[1])) {
+      split <- str_split(version, " \\(")
+      version <- paste(split[[1]][[1]], "", sep="")
+      versionPlus <- paste("(", split[[1]][[2]], sep="")
+    }
+    
+    limit <- 20
+    if(str_length(version) > limit+5) {
+      if(is.na(versionPlus)) {
+        versionPlus <- str_sub(version, start=limit+1)
+      } else {
+        versionPlus <- paste(str_sub(version, start=limit+1), versionPlus, sep="")
+      }
+      version <- str_sub(version, 1, limit)
+    }
   }
+
+  list$version <- version
+  list$versionPlus <- versionPlus
+  list
 }
 
 getExtension <- function(title) {
@@ -135,109 +273,16 @@ getExtension <- function(title) {
   ext[[1]][[length(ext[[1]])]]
 }
 
-getShortAuthor <- function(author) {
-  if(is.na(author)) {
-    return(NA)
-  } 
- 
-  keywords <- c(" feat", " ft", " presents", " pres", " with", " introduce")
-  result <- NA
-  for(i in 1:length(keywords)) {
-    if(!is.na(str_locate(author, keywords[i])[1])) {
-      result <- (paste(str_split(author, keywords[i])[[1]][[1]], "_", sep=""))
-      break
-    }
-  }
-  
-  #Check, if name is too long and then remove vs and &.
-  #Check both "result" and "autor", depending on if the author string had a keyword match
-  if(is.na(result)) {
-    result <- author
-  }
-  
-  limit <- 20
-  if(str_length(result) > limit) {
-    keywords <- c(" vs", " \\&")
-    for(i in 1:length(keywords)) {
-      if(!is.na(str_locate(result, keywords[i])[1])) {
-        result <- (paste(str_split(author, keywords[i])[[1]][[1]], "_", sep=""))
-      }
-    }
-  } 
-
-  if(author == result) {
-    NA
-  } else {
-    result
-  }
-  
-}
-
-getShortTitle <- function(title) {
-  if(is.na(title)) {
-    return(NA)
-  } 
-  
-  fullTitle <- title
-  
-  hasPars <- str_locate(title, " \\(")
-  
-  if(!is.na(hasPars[1])) {
-    title <- paste(str_split(title, " \\(")[[1]][[1]], "_", sep="")
-  }
-  
-  limit <- 20
-  if(str_length(title) > limit) {
-    title <- str_sub(title, 1, limit)
-    title <- str_replace(title, " \\S*$", "")
-    title <- paste(title, "_", sep="")
-  }
-  
-  if(fullTitle == title) {
-    NA
-  } else {
-    title
-  }
-  
-}
-
-getShortVersion <- function(version) {
-  if(is.na(version)) {
-    return(NA)
-  } 
-  
-  fullVersion <- version
-  
-  hasPars <- str_locate(version, " \\(")
-  if(!is.na(hasPars[1])) {
-    version <- paste(str_split(version, " \\(")[[1]][[1]], "_", sep="")
-  }
-  
-  limit <- 20
-  if(str_length(version) > limit) {
-    version <- str_sub(version, 1, limit)
-    version <- str_replace(version, " \\S*$", "")
-    version <- paste(version, "_", sep="")
-  }
-  
-  if(fullVersion == version) {
-    NA
-  } else {
-    version
-  }
-}
-
 getSongData <- function(title, folder) {
   tempList <- list()
   tempList$fullName <- title
   tempList$year <- getYearOfTrack(title, folder)
   tempList$prefix <- getPrefix(title)
-  tempList$author <- getAuthor(title)
-  tempList$authorShort <- getShortAuthor(tempList$author)
-  tempList$title <- getSongTitle(title)
-  tempList$titleShort <- getShortTitle(tempList$title)
-  tempList$version <- getVersion(title)
-  tempList$versionShort <- getShortVersion(tempList$version)
+  
+  tempList <- getAuthorInfo(tempList, title)
+  tempList <- getTitleInfo(tempList, title)
+  tempList <- getVersionInfo(tempList, title)
+  
   tempList$extension <- getExtension(title)
   
   tempList
@@ -247,6 +292,8 @@ getSongData <- function(title, folder) {
 folderNames <- list.files("./tracks", full.names = TRUE)
 
 songDataContainer <- initializeData(folderNames)
+orgContainer <- parseORG("tracks.org")
+updateORG()
 #songDataContainer
 
 #sort songs not working atm!
