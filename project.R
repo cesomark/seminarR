@@ -3,40 +3,156 @@ if("stringr" %in% rownames(installed.packages()) == FALSE) {
   library("stringr")
 }
 
+#-------- Global Vars ---------------
+org_itemHeader <- "\\*\\* "
+org_itemEnd <- ":END:"
+org_itemStart <- ":PROPERTIES:"
+org_itemAuthor <- ":Author:"    
+org_itemAuthorPlus <- ":Author\\+:"
+org_itemTitle <- ":Title:"     
+org_itemTitlePlus <- ":Title\\+:"
+org_itemVersion <- ":Version:"
+org_itemVersionPlus <- ":Version\\+:"
+org_itemYear <- ":Year:" 
+
+orgFILE <- "tracks.org"
+
 #-------- Helper Functions ----------
-parseORG <- function(fileLocation){
+parseORG <- function(){
+  #write("test", orgFILE, append = TRUE)
+ 
+  org <- list()
+  currentItem <- list()
+  i = 1
   
+  con <- NA
+  if(file.exists(orgFILE)) {
+    con <- file(orgFILE, "r")
+  } else {
+    file.create(orgFILE)
+    return(con)
+  }
+  
+  while ( TRUE ) {
+    #Read lines
+    line = readLines(con, n = 1, warn = FALSE)
+    if ( length(line) == 0 ) {
+      break
+    }
+    #create new song object
+    if(str_detect(line, org_itemHeader)) {
+      currentItem$fullName <- str_trim(str_remove(line, org_itemHeader))
+    }
+    #add song to list
+    else if(line == org_itemEnd) {
+      org[[i]] <- currentItem
+      i = i + 1
+      currentItem <- list()
+    } 
+    #add content to current song object
+    else {
+      currentItem <- parseORGLine(currentItem, line)
+    }
+  }
+  
+  close(con)
+  
+  org
 }
 
-updateORG <- function () {
-  if(file.exists("tracks.org")) {
-    
-   
-    
-    
+parseORGLine <- function(item, line) {
+  if(str_detect(line, org_itemAuthor)) {
+    item$author <- str_trim(str_remove(line, org_itemAuthor))
+  }
+  else if(str_detect(line, org_itemAuthorPlus)) {
+    item$authorPlus <- str_trim(str_remove(line, org_itemAuthorPlus))
+  }
+  else if(str_detect(line, org_itemTitle)) {
+    item$title <- str_trim(str_remove(line, org_itemTitle))
+  }
+  else if(str_detect(line, org_itemTitlePlus)) {
+    item$titlePlus <- str_trim(str_remove(line, org_itemTitlePlus))
+  }
+  else if(str_detect(line, org_itemVersion)) {
+    item$version <- str_trim(str_remove(line, org_itemVersion))
+  }
+  else if(str_detect(line, org_itemVersionPlus)) {
+    item$versionPlus <- str_trim(str_remove(line, org_itemVersionPlus))
+  }
+  else if(str_detect(line, org_itemYear)) {
+    item$year <- str_trim(str_remove(line, org_itemYear))
+  }
+
+  item
+}
+
+updateORG <- function (orgData, songData) {
+  if(length(orgData) == 0) {
+    for(i in 1:length(songData)) {
+      updateORGForSong(songData[[i]])
+    }
+
+
   } else {
-    file.create("tracks.org")
+    print("file not empty yet")
+    print("file not empty yet")
+    print("file not empty yet")
+    print("file not empty yet")
   }
   
 }
 
 checkIfSongInORG <- function(song) {
-  #write("test", "tracks.org", append = TRUE)
-  con = file("tracks.org", "r")
-  while ( TRUE ) {
-    line = readLines(con, n = 1)
-    if ( length(line) == 0 ) {
-      break
-    }
-    print(line)
-  }
   
-  close(con)
   
   updateORGForSong(song)
 }
 
 updateORGForSong <- function(song) {
+  #write("test", orgFILE, append = TRUE)
+  # tempList <- list()
+  # tempList$year <- getYearOfTrack(title, folder)
+  # tempList$prefix <- getPrefix(title)
+  # 
+  # tempList <- getAuthorInfo(tempList, title)
+  # tempList <- getTitleInfo(tempList, title)
+  # tempList <- getVersionInfo(tempList, title)
+  # 
+  # tempList$extension <- getExtension(title)
+  
+  write(song$header, orgFILE, append = TRUE)
+  write(org_itemStart, orgFILE, append = TRUE)
+  
+  if(!is.na(song$author)) {
+    line <- paste(org_itemAuthor, song$author, sep=" ")
+    write(line, orgFILE, append = TRUE)
+  }
+  if(!is.na(song$authorPlus)) {
+    line <- paste(":Author+:", song$authorPlus, sep=" ")
+    write(line, orgFILE, append = TRUE)
+  }
+  if(!is.na(song$title)) {
+    line <- paste(org_itemTitle, song$title, sep=" ")
+    write(line, orgFILE, append = TRUE)
+  }
+  if(!is.na(song$titlePlus)) {
+    line <- paste(":Title+:", song$titlePlus, sep=" ")
+    write(line, orgFILE, append = TRUE)
+  }
+  if(!is.na(song$version)) {
+    line <- paste(org_itemVersion, song$version, sep=" ")
+    write(line, orgFILE, append = TRUE)
+  }
+  if(!is.na(song$versionPlus)) {
+    line <- paste(":Version+:", song$versionPlus, sep=" ")
+    write(line, orgFILE, append = TRUE)
+  }
+  if(!is.na(song$year)) {
+    line <- paste(org_itemYear, song$year, sep=" ")
+    write(line, orgFILE, append = TRUE)
+  }
+  write(org_itemEnd, orgFILE, append = TRUE)
+
   
 }
 
@@ -273,9 +389,57 @@ getExtension <- function(title) {
   ext[[1]][[length(ext[[1]])]]
 }
 
+getHeader <- function(list) {
+  title <- "** "
+  
+  # --- Prefix ---
+  if(!is.na(list$prefix)) {
+    title <- paste(title, list$prefix, sep="")
+  }
+   
+  # --- Author ---
+  if(!is.na(list$author)) {
+    title <- paste (title, list$author, sep="")
+  }
+  if(!is.na(list$authorPlus)) {
+    title <- paste (title, "_", sep="")
+  }
+  if(!is.na(list$author)) {
+    title <- paste (title, " - ", sep="")
+  }
+
+  # --- Title ---
+  if(!is.na(list$title)) {
+    title <- paste (title, list$title, sep="")
+  }
+  if(!is.na(list$titlePlus)) {
+    title <- paste (title, "_", sep="")
+  }
+
+  # --- Version ---
+  if(!is.na(list$version)) {
+    title <- paste (title, " (", sep="")
+    title <- paste (title, list$version, sep="")
+    
+    if(!is.na(list$versionPlus)) {
+      title <- paste (title, "_", sep="")
+    }
+    
+    title <- paste (title, ")", sep="")
+  }
+
+  # --- Extension ---
+  if(!is.na(list$extension)) {
+    title <- paste (title, ".", sep="")
+    title <- paste (title, list$extension, sep="")
+  }
+  
+  title
+
+}
+
 getSongData <- function(title, folder) {
   tempList <- list()
-  tempList$fullName <- title
   tempList$year <- getYearOfTrack(title, folder)
   tempList$prefix <- getPrefix(title)
   
@@ -285,6 +449,8 @@ getSongData <- function(title, folder) {
   
   tempList$extension <- getExtension(title)
   
+  tempList$header <- getHeader(tempList)
+  
   tempList
 }
 #------------------------------------------------------
@@ -292,9 +458,10 @@ getSongData <- function(title, folder) {
 folderNames <- list.files("./tracks", full.names = TRUE)
 
 songDataContainer <- initializeData(folderNames)
-orgContainer <- parseORG("tracks.org")
-updateORG()
+orgContainer <- parseORG()
+updateORG(orgContainer, songDataContainer)
 #songDataContainer
+
 
 #sort songs not working atm!
 #sortSongs()
