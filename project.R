@@ -14,6 +14,7 @@ org_itemTitlePlus <- ":Title\\+:"
 org_itemVersion <- ":Version:"
 org_itemVersionPlus <- ":Version\\+:"
 org_itemYear <- ":Year:" 
+SONGS_LOCATION <- "./tracks"
 
 orgFILE <- "tracks.org"
 
@@ -32,29 +33,35 @@ parseORG <- function(){
     file.create(orgFILE)
     return(con)
   }
-  
+
+  lineNumber = 0;
+  line = NULL;
   while ( TRUE ) {
     #Read lines
-    line = readLines(con, n = 1, warn = FALSE)
+    lineNumber = lineNumber + 1;
+    line = readLines(con, n = 1, warn = FALSE, encoding="UTF-8")
     if ( length(line) == 0 ) {
       break
     }
     #create new song object
     if(str_detect(line, org_itemHeader)) {
       currentItem$fullName <- str_trim(str_remove(line, org_itemHeader))
+      currentItem$start <- lineNumber
     }
     #add song to list
     else if(line == org_itemEnd) {
+      currentItem$end <- lineNumber
       org[[i]] <- currentItem
       i = i + 1
       currentItem <- list()
-    } 
+      
+    }
     #add content to current song object
     else {
       currentItem <- parseORGLine(currentItem, line)
     }
   }
-  
+
   close(con)
   
   org
@@ -87,25 +94,67 @@ parseORGLine <- function(item, line) {
 }
 
 updateORG <- function (orgData, songData) {
-  if(length(orgData) == 0) {
-    for(i in 1:length(songData)) {
-      updateORGForSong(songData[[i]])
+  output <- readLines(orgFILE,-1, encoding="UTF-8")
+  indexShift <- 0
+
+  if(length(orgData) > 0){
+    #Remove unnecessary entries in org
+    for(i in 1:length(orgData)) {
+      if(!orgEntryMatchesSong(orgData[[i]], songData)) {
+
+        #Delete ORG entry if no matching sound track
+        start <- orgData[[i]]$start - indexShift
+        end <- orgData[[i]]$end - indexShift
+        output <- output[-(start : end)]
+        indexShift <- indexShift + (orgData[[i]]$end - orgData[[i]]$start) + 1
+        
+        print("delete org entry for:")
+        print(orgData[[i]]$fullName)
+        print("---------------")
+      } else {
+        #do maybe something if org entry matches to a track here 
+      }
     }
-
-
-  } else {
-    print("file not empty yet")
-    print("file not empty yet")
-    print("file not empty yet")
-    print("file not empty yet")
+    writeLines(output, orgFILE, useBytes=T)
   }
   
+  #Add new songs to ORG
+  for(i in 1:length(songData)) {
+    if(length(orgData) == 0 || !songInORG(orgData, songData[[i]])) {
+      updateORGForSong(songData[[i]])
+      print("update org entry for:")
+      print(songData[[i]]$header)
+      print("-------------")
+    } else {
+      #do maybe something if song was in org already here
+    }
+  }
 }
 
-checkIfSongInORG <- function(song) {
+songInORG<- function(orgData, song) {
+  if(is.na(song$header)) {
+    return(FALSE)
+  }
   
+  for(i in 1:length(orgData)) {
+    if(paste("**", orgData[[i]]$fullName) == song$header) {
+      return(TRUE)
+    }
+  }
+  return(FALSE)
+}
+
+orgEntryMatchesSong <- function(orgEntry, songData) {
+  if(length(songData) == 0) {
+    return(FALSE)
+  }
   
-  updateORGForSong(song)
+  for(i in 1:length(songData)) {
+    if(paste("**", orgEntry$fullName) == songData[[i]]$header) {
+      return(TRUE)
+    }
+  }
+  return(FALSE)
 }
 
 updateORGForSong <- function(song) {
@@ -119,7 +168,7 @@ updateORGForSong <- function(song) {
   # tempList <- getVersionInfo(tempList, title)
   # 
   # tempList$extension <- getExtension(title)
-  
+
   write(song$header, orgFILE, append = TRUE)
   write(org_itemStart, orgFILE, append = TRUE)
   
@@ -161,13 +210,21 @@ initializeData <- function (folderNames) {
   
   songData <- list()
   songNumber = 1;
+  
   for(i in 1:length(songList)) {
     for(j in 1:length(songList[[i]][[1]])) {
-      songData[[songNumber]] <- getSongData(songList[[i]][[1]][[j]], songList[[i]]$folderName)
-      songNumber <- songNumber + 1
+        if(length(songList[[i]][[1]]) > 0) {
+        title <- songList[[i]][[1]][[j]]
+        folder <- songList[[i]]$folderName
+        # 
+        # Encoding(title) <- "UTF-8"
+        # Encoding(folder) <- "UTF-8"
+        
+        songData[[songNumber]] <- getSongData(title, folder)
+        songNumber <- songNumber + 1 
+      }
     }
   }
-  
   songData
 }
 initializeSongList <- function(folderNames) {
@@ -180,41 +237,6 @@ initializeSongList <- function(folderNames) {
   
   tempList
 }  
-
-# sortSongs <- function() {
-#   #creating the destination folder once at the start
-#   dir.create(file.path(getwd(), "sorted"), showWarnings = FALSE)
-# 
-#   for(i in 1:length(songList)) {
-#     for(j in 1:length(songList[[i]][[1]])) {
-# 
-#       copySongToSortedFolder(songList[[i]][[1]][[j]], songList[[i]]$folderName)
-#     }
-#   }
-# }
-# 
-# copySongToSortedFolder <- function(title, folder) {
-#   createFolderForSortedSong(title, folder)
-# 
-#   file.copy(from=file.path(getwd(), getOldSongPath(title, folder)),
-#             to=file.path(getwd(), getNewSongPath(title, folder)),
-#             overwrite = TRUE, recursive = FALSE, copy.mode = TRUE)
-# }
-# 
-# createFolderForSortedSong <- function(title, folder) {
-#   year <- getYearOfTrack(title, folder)
-#   location <- paste("sorted", year, sep="/")
-#   dir.create(file.path(getwd(), location), showWarnings = FALSE)
-# }
-# 
-# getOldSongPath <- function(title, folder) {
-#   paste(folder, title, sep="/")
-# }
-# 
-# getNewSongPath <- function(title, folder) {
-#   year <- getYearOfTrack(title, folder)
-#   paste("sorted", year, title, sep="/")
-# }
 
 getYearOfTrack <- function(title, folder) {
   titleIndex <- regexpr('[0-9][0-9][0-9][0-9]', folder)[1]
@@ -451,17 +473,37 @@ getSongData <- function(title, folder) {
   
   tempList$header <- getHeader(tempList)
   
+  tempList$filePath <- paste(folder, title, sep="/")
+  
+  #the current folder where the song is located
+  tempList$folder <- gsub(paste(paste("^", SONGS_LOCATION, sep=""), "/", sep=""), "", folder)
+  
+  
   tempList
 }
+
+updateSongs <- function(songs) {
+  currentDir <- paste(getwd(), gsub("^\\.", "", SONGS_LOCATION), sep="")
+  
+  for(i in 1:length(songs)) {
+    newPath <- paste(SONGS_LOCATION, "/", songs[[i]]$year, "/", gsub(org_itemHeader, "", songs[[i]]$header), sep="")
+    if(!newPath == songs[[i]]$filePath) {
+      dir.create(file.path(currentDir, songs[[i]]$year), showWarnings = FALSE)
+      newPath <- paste(getwd(), gsub("^\\.", "", newPath), sep="")
+      oldPath <- paste(getwd(), gsub("^\\.", "", songs[[i]]$filePath), sep="")
+      
+      file.rename(from=oldPath, to=newPath)
+      # file.rename(from=enc2utf8(oldPath), to=enc2utf8(newPath))
+    }
+  }
+}
+
 #------------------------------------------------------
 
-folderNames <- list.files("./tracks", full.names = TRUE)
+folderNames <- list.files(SONGS_LOCATION, full.names = TRUE)
 
 songDataContainer <- initializeData(folderNames)
+updateSongs(songDataContainer)
 orgContainer <- parseORG()
 updateORG(orgContainer, songDataContainer)
 #songDataContainer
-
-
-#sort songs not working atm!
-#sortSongs()
