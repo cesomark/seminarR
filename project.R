@@ -2,6 +2,10 @@ if("stringr" %in% rownames(installed.packages()) == FALSE) {
   install.packages("stringr", repos='http://cran.us.r-project.org')
   library("stringr")
 }
+if("xml2" %in% rownames(installed.packages()) == FALSE) {
+  install.packages("xml2")
+  library(xml2)
+}
 
 #-------- Global Vars ---------------
 org_itemHeader <- "\\*\\* "
@@ -14,14 +18,19 @@ org_itemTitlePlus <- ":Title\\+:"
 org_itemVersion <- ":Version:"
 org_itemVersionPlus <- ":Version\\+:"
 org_itemYear <- ":Year:" 
+
+nml_seperator <- "/:"
+
 SONGS_LOCATION <- "./tracks"
+SONGS_FOLDER <- gsub("^\\.\\/", "", SONGS_LOCATION)
 
 orgFILE <- "tracks.org"
+nmlFILE <- "collection.nml"
 
 #-------- Helper Functions ----------
 parseORG <- function(){
   #write("test", orgFILE, append = TRUE)
- 
+  
   org <- list()
   currentItem <- list()
   i = 1
@@ -33,7 +42,7 @@ parseORG <- function(){
     file.create(orgFILE)
     return(con)
   }
-
+  
   lineNumber = 0;
   line = NULL;
   while ( TRUE ) {
@@ -61,7 +70,7 @@ parseORG <- function(){
       currentItem <- parseORGLine(currentItem, line)
     }
   }
-
+  
   close(con)
   
   org
@@ -89,30 +98,30 @@ parseORGLine <- function(item, line) {
   else if(str_detect(line, org_itemYear)) {
     item$year <- str_trim(str_remove(line, org_itemYear))
   }
-
+  
   item
 }
 
 updateORG <- function (orgData, songData) {
   output <- readLines(orgFILE,-1, encoding="UTF-8")
   indexShift <- 0
-
+  
   if(length(orgData) > 0){
     #Remove unnecessary entries in org
     for(i in 1:length(orgData)) {
       if(!orgEntryMatchesSong(orgData[[i]], songData)) {
-
-        #Delete ORG entry if no matching sound track
-        start <- orgData[[i]]$start - indexShift
-        end <- orgData[[i]]$end - indexShift
-        output <- output[-(start : end)]
-        indexShift <- indexShift + (orgData[[i]]$end - orgData[[i]]$start) + 1
-        
-        print("delete org entry for:")
+        print("The following org entry has no matching song:")
         print(orgData[[i]]$fullName)
         print("---------------")
+        
+        # #Delete ORG entry if no matching sound track
+        # start <- orgData[[i]]$start - indexShift
+        # end <- orgData[[i]]$end - indexShift
+        # output <- output[-(start : end)]
+        # indexShift <- indexShift + (orgData[[i]]$end - orgData[[i]]$start) + 1
+        
       } else {
-        #do maybe something if org entry matches to a track here 
+        #ORG entry matches a song, do nothing
       }
     }
     writeLines(output, orgFILE, useBytes=T)
@@ -122,11 +131,8 @@ updateORG <- function (orgData, songData) {
   for(i in 1:length(songData)) {
     if(length(orgData) == 0 || !songInORG(orgData, songData[[i]])) {
       updateORGForSong(songData[[i]])
-      print("update org entry for:")
-      print(songData[[i]]$header)
-      print("-------------")
     } else {
-      #do maybe something if song was in org already here
+      #song already in ORG, do nothing
     }
   }
 }
@@ -168,7 +174,7 @@ updateORGForSong <- function(song) {
   # tempList <- getVersionInfo(tempList, title)
   # 
   # tempList$extension <- getExtension(title)
-
+  
   write(song$header, orgFILE, append = TRUE)
   write(org_itemStart, orgFILE, append = TRUE)
   
@@ -201,7 +207,7 @@ updateORGForSong <- function(song) {
     write(line, orgFILE, append = TRUE)
   }
   write(org_itemEnd, orgFILE, append = TRUE)
-
+  
   
 }
 
@@ -213,7 +219,7 @@ initializeData <- function (folderNames) {
   
   for(i in 1:length(songList)) {
     for(j in 1:length(songList[[i]][[1]])) {
-        if(length(songList[[i]][[1]]) > 0) {
+      if(length(songList[[i]][[1]]) > 0) {
         title <- songList[[i]][[1]][[j]]
         folder <- songList[[i]]$folderName
         # 
@@ -284,7 +290,7 @@ getAuthorInfo <- function(list, title) {
     
     limit <- 5
     if(str_length(author) > limit) {
-    
+      
       keywords <- c(" vs", " \\&")
       for(i in 1:length(keywords)) {
         split <- str_locate(author, keywords[i])[1]
@@ -327,10 +333,10 @@ addTitleInfo <- function(list, title) {
   
   if(!is.na(hasPars[1])) {
     splitTitle <- str_split(title, " \\(")
-
+    
     title <- paste(splitTitle[[1]][[1]], "", sep="")
     titlePlus <- paste("(", splitTitle[[1]][[2]], sep="")
-
+    
   }
   
   #if the title is (still) too long, remove part of the title
@@ -343,8 +349,8 @@ addTitleInfo <- function(list, title) {
     }
     
     title <- str_sub(title, 1, limit)
-
-    #remove the last word of a string
+    
+    #remove the last word of a string 
     #title <- str_replace(title, " \\S*$", "")
     #title <- paste(title, "_", sep="")
   }
@@ -362,14 +368,14 @@ getFullTitle <- function(title) {
   if(!is.na(str_locate(title, "\\(([^)]*)\\)[^(]*$")[1])) {
     title <- str_sub(title, 1, str_locate(title, "\\(([^)]*)\\)[^(]*$")[1]-1)
   }
-    
+  
   #If there is no version, cut off file extension from title
   if(!is.na(str_locate(title, "\\.[0-9]{4}\\..{3}$")[1])) {
     title <- str_split(title, "\\.[0-9]{4}\\..{3}$")[[1]][[1]]
   } else  if(!is.na(str_locate(title, "\\..{3}$")[1])) {
     title <- str_split(title, "\\..{3}$")[[1]][[1]]
   }
-
+  
   title <- str_trim(title)
   title
 }
@@ -400,7 +406,7 @@ getVersionInfo <- function(list, title) {
       version <- str_sub(version, 1, limit)
     }
   }
-
+  
   list$version <- version
   list$versionPlus <- versionPlus
   list
@@ -418,7 +424,7 @@ getHeader <- function(list) {
   if(!is.na(list$prefix)) {
     title <- paste(title, list$prefix, sep="")
   }
-   
+  
   # --- Author ---
   if(!is.na(list$author)) {
     title <- paste (title, list$author, sep="")
@@ -429,7 +435,7 @@ getHeader <- function(list) {
   if(!is.na(list$author)) {
     title <- paste (title, " - ", sep="")
   }
-
+  
   # --- Title ---
   if(!is.na(list$title)) {
     title <- paste (title, list$title, sep="")
@@ -437,7 +443,7 @@ getHeader <- function(list) {
   if(!is.na(list$titlePlus)) {
     title <- paste (title, "_", sep="")
   }
-
+  
   # --- Version ---
   if(!is.na(list$version)) {
     title <- paste (title, " (", sep="")
@@ -449,7 +455,7 @@ getHeader <- function(list) {
     
     title <- paste (title, ")", sep="")
   }
-
+  
   # --- Extension ---
   if(!is.na(list$extension)) {
     title <- paste (title, ".", sep="")
@@ -457,7 +463,7 @@ getHeader <- function(list) {
   }
   
   title
-
+  
 }
 
 getSongData <- function(title, folder) {
@@ -477,6 +483,7 @@ getSongData <- function(title, folder) {
   
   #the current folder where the song is located
   tempList$folder <- gsub(paste(paste("^", SONGS_LOCATION, sep=""), "/", sep=""), "", folder)
+  tempList$oldTitle <- title
   
   
   tempList
@@ -498,12 +505,114 @@ updateSongs <- function(songs) {
   }
 }
 
+# ---------------------------------------------
+# ---------------- NML METHODS ----------------
+# ---------------------------------------------
+updateNML <- function(songDataContainer) {
+  nml <- list()
+  
+  if(!file.exists(nmlFILE)) {
+    print(paste("WARNING: NML FILE \'", nmlFILE, "\' DOES NOT EXIST!", sep=""))
+    return(nml)
+  } 
+  nml <- read_xml(file(nmlFILE))
+  
+  #Update "COLLECTION"
+  collectionEntries <- xml_children(xml_child(nml, "COLLECTION"))
+
+  for(i in 1:length(collectionEntries)) {
+    if(xml_name(collectionEntries[[i]]) == "ENTRY") {
+      entry <- collectionEntries[[i]]
+      location <- xml_child(collectionEntries[[i]], "LOCATION")
+      fileName <- xml_attr(location, "FILE")
+
+      #first check, if the songtitle has changed. if it did, update data
+      updatedSongData <- getUpdatedSongData(fileName, songDataContainer)
+      if(!is.na(updatedSongData)[[1]]) {
+        xml_attr(location, "FILE")  <- gsub(org_itemHeader, "", updatedSongData$header)
+        xml_attr(location, "DIR")   <- getFileLocationForNML(updatedSongData$folder)
+        xml_attr(entry, "TITLE")    <- if(!is.na(updatedSongData$titlePlus)) updatedSongData$title
+                                        else paste(updatedSongData$title, "_", sep="")
+        xml_attr(entry, "ARTIST")   <- if(!is.na(updatedSongData$authorPlus)) updatedSongData$author
+                                        else paste(updatedSongData$author, "_", sep="")
+      }
+    }
+  }
+  
+  #Update "PLAYLISTS"
+  playlists <- xml_child(nml, "PLAYLISTS")
+  nodes <- xml_find_all(playlists, "NODE")
+  for(i in 1:length(nodes)) {
+    traverseNode(nodes[[i]], songDataContainer)
+  }
+
+  write_xml(nml, "testfileOutput.nml")
+  nml
+}
+
+traverseNode <- function(node, songDataContainer) {
+  subnodes <- xml_find_first(node, "SUBNODES")
+  playlist <- xml_find_all(node, "PLAYLIST")
+  
+  if(length(xml_children(playlist)) > 0) {
+    for(i in 1:length(xml_children(playlist))) {
+      pk <- xml_find_first(xml_children(playlist)[[i]], "PRIMARYKEY")
+
+      keySplitted <- splitNMLKey(xml_attr(pk, "KEY"))
+      updatedSongData <- getUpdatedSongData(keySplitted$key, songDataContainer)
+      if(!is.na(updatedSongData)[[1]]) {
+        xml_attr(pk, "KEY")  <- paste(keySplitted$prefix, "/:", gsub(org_itemHeader, "", updatedSongData$header), sep="")
+      }
+
+    }
+  }
+  
+  if(length(xml_children(subnodes)) > 0) {
+    for(i in 1:length(xml_children(subnodes))) {
+      traverseNode(xml_children(subnodes)[[i]], songDataContainer)
+      
+    }
+  }
+}
+
+splitNMLKey <- function(key) {
+  split <- str_locate_all(key[[1]], "/:")
+  splitLocation <- split[[1]][[length(split[[1]]) / 2]]
+  
+  result <- list()
+  result$prefix <- str_sub(key, 0, splitLocation-1)
+  result$key <- str_sub(key, splitLocation + 2)
+  
+  result
+}
+
+getFileLocationForNML <- function(folderName) {
+  paste(nml_seperator, SONGS_FOLDER, 
+        nml_seperator, folderName, 
+        nml_seperator, sep="")
+}
+
+getUpdatedSongData <- function(songTitleNML, songDataContainer) {
+  for(i in 1:length(songDataContainer)) {
+    currentTitleORG = gsub(org_itemHeader, "", songDataContainer[[i]]$header)
+    if(songDataContainer[[i]]$oldTitle == songTitleNML
+       && songDataContainer[[i]]$oldTitle != currentTitleORG) {
+      return(songDataContainer[[i]])
+    }
+  }
+  return(NA)
+}
+
 #------------------------------------------------------
 
 folderNames <- list.files(SONGS_LOCATION, full.names = TRUE)
+if(length(folderNames) == 0) {
+  stop(paste("ERROR: '", SONGS_FOLDER, "' folder does not exist or is empty", sep=""))
+}
 
 songDataContainer <- initializeData(folderNames)
 updateSongs(songDataContainer)
 orgContainer <- parseORG()
 updateORG(orgContainer, songDataContainer)
-#songDataContainer
+# nmlContainer <- updateNML(songDataContainer)
+
