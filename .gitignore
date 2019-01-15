@@ -1,6 +1,7 @@
 tracks/
 tracks.1/
 tracks_backup/
+tracks_backup.1/
 sorted/
 tracklist.txt
 .DS_Store
