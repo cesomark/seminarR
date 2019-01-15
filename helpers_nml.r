@@ -7,10 +7,10 @@ traverseNode <- function(node, songDataContainer) {
     for(i in 1:length(xml_children(playlist))) {
       pk <- xml_find_first(xml_children(playlist)[[i]], "PRIMARYKEY")
       
-      keySplitted <- splitNMLKey(xml_attr(pk, "KEY"))
+      keySplitted <- splitNMLKey(xml_attr(pk, "KEY"), updatedSongData$folder)
       updatedSongData <- getUpdatedSongData(keySplitted$key, songDataContainer)
       if(!is.na(updatedSongData)[[1]]) {
-        xml_attr(pk, "KEY")  <- paste(keySplitted$prefix, "/:", gsub(org_itemHeader, "", updatedSongData$header), sep="")
+        xml_attr(pk, "KEY")  <- paste(getFileLocationForNML(updatedSongData$folder), gsub(org_itemHeader, "", updatedSongData$header), sep="")
       }
       
     }
@@ -24,7 +24,7 @@ traverseNode <- function(node, songDataContainer) {
   }
 }
 
-splitNMLKey <- function(key) {
+splitNMLKey <- function(key, folder) {
   split <- str_locate_all(key[[1]], "/:")
   splitLocation <- split[[1]][[length(split[[1]]) / 2]]
   

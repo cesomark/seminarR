@@ -1,5 +1,5 @@
 # Starting point of this program:
-# Bottom of the file (line 226)
+# Bottom of the file (line 223)
 
 #--- Needed packages / sources ---
 if("stringr" %in% rownames(installed.packages()) == FALSE) {
@@ -17,12 +17,9 @@ source("helpers_nml.r")
 #----------- OPTIONS ----------------
 #If enabled, deletes mismatches in the ORG file. (Mismatches are always reported)
 DELETE_ORG_MISMATCH <- FALSE
-#If enabled, the nmlFILE gets overwritten. Otherwise, the result is saved in nmlOUTPUT_FILE
-OVERWRITE_NML <- FALSE
 
 orgFILE <- "tracks.org"
 nmlFILE <- "collection.nml"
-nmlOUTPUT_FILE <- "collection_output.nml"
 #Songs location folder should always start with ./
 SONGS_LOCATION <- "./tracks"
 #If a song's release year is not clear, SONG_NO_YEAR will be used
@@ -218,7 +215,7 @@ updateNML <- function(songDataContainer) {
     traverseNode(nodes[[i]], songDataContainer)
   }
 
-  write_xml(nml, if(OVERWRITE_NML) nmlFILE else nmlOUTPUT_FILE)
+  write_xml(nml, nmlFILE)
   nml
 }
 #------------------------------------------------------

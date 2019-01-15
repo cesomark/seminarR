@@ -16811,10 +16811,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Gibson Brothers - Cuba (The Remixes 12&quot; a1).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Jamie Woon - Night Air (Solomun Edit).mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Jamie Woon - Night Air (Solomun Edit).mp3"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Black - Wonderful Life (Nick Tohme Bootleg).mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Black - Wonderful Life (Nick Tohme Bootleg).mp3"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1976/:v_Stevie Wonder - Another Star (A).wav"/>
@@ -16826,10 +16826,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2003/:v_Donna Summer - I Feel Love (Danny Howells Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (12&quot; Master At Wo_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Donna Summer - I Feel Love (12&quot; Master At Wo_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (Master At Work 8_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Donna Summer - I Feel Love (Master At Work 8_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Depeche Mode - Enjoy the Silence (Live In Barcelona).m4a"/>
@@ -17187,7 +17187,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2001/:Kings of Tomorrow - Finally (Danny Tenaglia Dub).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
                 </ENTRY>
               </PLAYLIST>
             </NODE>
@@ -17385,7 +17385,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Le Knight Club - Boogie Shell.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Mateo And Matos - The Sunshine.wav"/>
@@ -17413,7 +17413,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:v_Romain &amp; Danny Krivit - Philly's Groove.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Le Knight Club - Boogie Shell.wav"/>
@@ -17529,13 +17529,13 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2009/:Sharam ft Kid Cudi - She Came Along (Sharam's Ecstasy Of Ibiza Edit).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2005/:v_Freemasons ft Amanda Wilson - Love On My Mind (Original Club Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Johnick - Play the World.wav"/>
@@ -17645,7 +17645,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2001/:Soul Providers - Rise (Ricky Montanari &amp; Stefano Greppi Dark Vocal Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Johnick - Play the World.wav"/>
@@ -17737,7 +17737,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2009/:Sharam ft Kid Cudi - She Came Along (Sharam's Ecstasy Of Ibiza Edit).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
                 </ENTRY>
               </PLAYLIST>
             </NODE>
@@ -17778,7 +17778,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2009/:Moby - Pale Horses (Apparat Remix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
                 </ENTRY>
               </PLAYLIST>
             </NODE>
@@ -18009,7 +18009,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2001/:Harry 'Choo Choo' Romero - Tania (Original Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
                 </ENTRY>
               </PLAYLIST>
             </NODE>
@@ -18100,7 +18100,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Funky Green Dogs - Fired Up (DT's Twilo mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys acapp_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys acapp_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2002/:v_The Shadow Kings - Get Stronger (Troublemen remix B).wav"/>
@@ -18127,7 +18127,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_House of Gypsies - Sume Sigh Say (The Masters Remix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:95 North _ - Hold On (Louie's King Str_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:95 North _ - Hold On (Louie's King Str_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Barbara Tucker - I Get Lifted (The Bar Dub).wav"/>
@@ -18142,10 +18142,10 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Underground Sound of Lisbon - So Get Up (Acapella).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Underground Sound of Lisbon - So Get Up (Danny Tenaglia A_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Underground Sound of Lisbon - So Get Up (Danny Tenaglia A_).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Love &amp; Happiness (Dream Sequence).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Love &amp; Happiness (Dream Sequence).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Voices - Voices In My Mind (Chant Beats).wav"/>
@@ -18193,7 +18193,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2004/:v_Justice vs Simian - Never Be Alone (Dj Hell's Bavarian Gigolo Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Liberty City - If You Really Lo_ (Original Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Liberty City - If You Really Lo_ (Original Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2004/:v_Justice vs Simian - Never Be Alone.wav"/>
@@ -18236,37 +18236,37 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Derrick May Remix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Original Paradis_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Sueno Latino - Sueno Latino (Original Paradis_).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (Latin Groove Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (Latin Groove Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_House of Gypsies - Sume Sigh Say (Tee's Freeze Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Conga Drums.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Conga Drums.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean - Love &amp; Happiness (Junior Boys Own _).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:River Ocean - Love &amp; Happiness (Junior Boys Own _).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean - Tito &amp; India.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - La Rumba.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - La Rumba.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Love &amp; Happiness (Dream Sequence).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Love &amp; Happiness (Dream Sequence).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Love &amp; Happiness (Junior Boys Own _).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Love &amp; Happiness (Junior Boys Own _).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Tito &amp; India.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Tito &amp; India.wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2010/:Poolside - Do You Believe (James Curd instrumental mix).wav"/>
@@ -18293,7 +18293,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Heartists - Belo Horizonti (Dub-Duo Samba Vibe).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Joaquin &quot;Joe&quot; Claussel _ - Evora (Vocal Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Joaquin &quot;Joe&quot; Claussel _ - Evora (Vocal Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Joe Claussell - Je Ka Jo (Crazy Vocal Mix).wav"/>
@@ -18323,7 +18323,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Cesaria Evoria - Sangue De Beirona (Remix de Francois K).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Cesaria Evoria - Sangue De Beirona (Remix de Francoi_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Cesaria Evoria - Sangue De Beirona (Remix de Francoi_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Cesaria Evoria - Sangue De Beirona (Dub Version).wav"/>
@@ -18351,7 +18351,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Richie Rich - You Used To Salsa.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_The Beloved - Sun Rising (Intensita').wav"/>
@@ -18360,7 +18360,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Richie Rich - Salsa House (Silver on Black Remix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Original Paradis_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Sueno Latino - Sueno Latino (Original Paradis_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Nightcommunication EP - Nocturne Seduction.wav"/>
@@ -18369,16 +18369,16 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Jestofunk - Can We Live (Original Club Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean - Love &amp; Happiness (Junior Boys Own _).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:River Ocean - Love &amp; Happiness (Junior Boys Own _).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Elastic Reality - Cassa de X (Deep Dish Does X).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Donna Allen - Real (David Morales Cl_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Donna Allen - Real (David Morales Cl_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Joi Cardwell - Trouble (UBQ's Club Dub).wav"/>
@@ -18405,16 +18405,16 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Daft Punk - Around The World.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Pete Heller - Big Love (Pete Heller's Or_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Pete Heller - Big Love (Pete Heller's Or_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Pete Heller - Big Love (The Dronez Dub).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Stardust - Music Sounds Bet_.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Stardust - Music Sounds Bet_.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (Rollo &amp; Sister B_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Donna Summer - I Feel Love (Rollo &amp; Sister B_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mondo Grosso - Souffles H (King Street Club Mix).wav"/>
@@ -18466,7 +18466,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2002/:v_Cosmos - Take Me With You (Instrumental Club Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Cerrone - Supernature (Tenaglia Legenda_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:Cerrone - Supernature (Tenaglia Legenda_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:v_Simon - Free At Last (Inst).wav"/>
@@ -18485,7 +18485,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_The Beloved - Sun Rising (Intensita').wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Express of Sound_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Sueno Latino - Sueno Latino (Express of Sound_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Djaimin - Give You (Djaimin Zanz Mix).wav"/>
@@ -18494,7 +18494,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Nightcommunication EP - Lose Control (In Dub We Trust Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Angel Moraes - Heaven Knows_ (Angels Factory Dub).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Angel Moraes - Heaven Knows_ (Angels Factory Dub).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2010/:The Black Project ft Franky S - Off The Wall (Tradelove Remix).wav"/>
@@ -18521,7 +18521,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2009/:Hermanez - Marrakech (Noir vs Martinez Edit).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (Rollo &amp; Sister B_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Donna Summer - I Feel Love (Rollo &amp; Sister B_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2004/:Danny Tenaglia &amp; Kult Of Krameria - Esperanca (Original Mix).wav"/>
@@ -18555,7 +18555,7 @@
             <NODE TYPE="PLAYLIST" NAME="Funky">
               <PLAYLIST ENTRIES="14" TYPE="LIST">
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Stardust - Music Sounds Bet_.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Stardust - Music Sounds Bet_.wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Le Knight Club - Boogie Shell.wav"/>
@@ -18576,7 +18576,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cricco Castelli - Life Has Changed.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cricco Castelli - Life Is Changing (Freaks Turning 0_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Cricco Castelli - Life Is Changing (Freaks Turning 0_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cricco Castelli - Life Is Changing.wav"/>
@@ -18607,10 +18607,10 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Gibson Brothers - Cuba (The Remixes 12&quot; b1).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (Real Instrumental Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (Real Instrumental Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (Bellbottoms &amp; Pl_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (Bellbottoms &amp; Pl_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Black Science Orchestra - Philadelphia.wav"/>
@@ -18619,7 +18619,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Incognito - Jacobs Ladder (MAW Yorican Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Joi Cardwell - Trouble (Tom Moulton's Ne_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Joi Cardwell - Trouble (Tom Moulton's Ne_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2009/:The Detroit Experiment - Think Twice (Original 2002 version).wav"/>
@@ -18650,13 +18650,13 @@
             <NODE TYPE="PLAYLIST" NAME="H:dub">
               <PLAYLIST ENTRIES="28" TYPE="LIST">
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Express of Sound_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Sueno Latino - Sueno Latino (Express of Sound_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_The Beloved - Sun Rising (Intensita').wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (Not On The List _).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (Not On The List _).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Nightcommunication EP - Lose Control (In Dub We Trust Mix).wav"/>
@@ -18686,7 +18686,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Pleasure Dome - 12 Minutes To Do It.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Angel Moraes - Heaven Knows_ (Angels Factory Dub).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Angel Moraes - Heaven Knows_ (Angels Factory Dub).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Danny Tenaglia - Bottom Heavy (Long mix).wav"/>
@@ -18695,13 +18695,13 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Elastic Reality - Cassa de X (Deep Dish Does X).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Elastic Reality - Cassa de X (Deep Dish Chambe_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Elastic Reality - Cassa de X (Deep Dish Chambe_).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - La Rumba.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - La Rumba.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Tito &amp; India.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Tito &amp; India.wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2010/:The Tortoise - Lovin You.wav"/>
@@ -18741,7 +18741,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:The Daou - Surrender Yourself (DT's Ballroom Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Joint Venture - Master Blaster_ (Tha Wild Pitch mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Joint Venture - Master Blaster_ (Tha Wild Pitch mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Nightcommunication EP - Lose Control (In Dub We Trust Mix).wav"/>
@@ -18756,7 +18756,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:The Daou - Give Myself To You (Grand Ballroom Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:95 North _ - Hold On (Louie's King Str_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:95 North _ - Hold On (Louie's King Str_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Deep Creed - Can You Feel It (Shell Toe Mix).wav"/>
@@ -18768,7 +18768,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Hardhead - New York Express.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Liberty City - If You Really Lo_ (The Murk Groove Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Liberty City - If You Really Lo_ (The Murk Groove Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Danny Tenaglia - Bottom Heavy (Long mix).wav"/>
@@ -18799,16 +18799,16 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Johnick - Play the World.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Funky Green Dogs - Fired Up (DT's Twilo mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys club remix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys club remix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys dub remix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys dub remix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2002/:v_The Shadow Kings - Get Stronger (Troublemen remix A).wav"/>
@@ -18826,13 +18826,13 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Satoshi Tomiie - Tears (Full Intention Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Satoshi Tomiie - Tears (Full Intention's_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Satoshi Tomiie - Tears (Full Intention's_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Djaimin - Give You (Djaimin Zanz Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (I'm On The Guest_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (I'm On The Guest_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Hardrive - Deep Inside.wav"/>
@@ -18841,7 +18841,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Liberty City - Some Lovin (Original Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Masters At Work _ - I Can't Get No Sleep (Her Fantasy Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Masters At Work _ - I Can't Get No Sleep (Her Fantasy Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Masters At Work ft India - I Can't Get No Sleep (Ken//Lou 12&quot;).wav"/>
@@ -18853,19 +18853,19 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Jestofunk - Can We Live (Original Club Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Liberty City - If You Really Lo_ (Original Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Liberty City - If You Really Lo_ (Original Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean - Love &amp; Happiness (Junior Boys Own _).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:River Ocean - Love &amp; Happiness (Junior Boys Own _).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:X Fade _ - Good Plenty Love (The Wild Pitch Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:X Fade _ - Good Plenty Love (The Wild Pitch Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Donna Allen - Real (David Morales Cl_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Donna Allen - Real (David Morales Cl_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Joi Cardwell - Trouble (UBQ's Club Dub).wav"/>
@@ -18874,10 +18874,10 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Joi Cardwell - Trouble (Deep Dish Vocal Remix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Love &amp; Happiness (Junior Boys Own _).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Love &amp; Happiness (Junior Boys Own _).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Love &amp; Happiness (Dream Sequence).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Love &amp; Happiness (Dream Sequence).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Voices - Voices In My Mind (MAW Mix).wav"/>
@@ -18952,7 +18952,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2001/:Kings of Tomorrow - Finally (Original Extended Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Masters At Work - Gonna Get Back To You (Ken Lou 12&quot;).wav"/>
@@ -18961,7 +18961,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2002/:Louie Vega &amp; Jay Sinister ft Julie McKnight - Diamond Life.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_MCJ _ - I'm Ready_ (Club Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_MCJ _ - I'm Ready_ (Club Mix).wav"/>
                 </ENTRY>
               </PLAYLIST>
             </NODE>
@@ -19001,13 +19001,13 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:v_Mutiny UK - Secrets (Secrets Dub).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Keith Nunnally - Greed_ (Club Edit).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Keith Nunnally - Greed_ (Club Edit).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Sole Fusion - We Can Make It (Underground Netw_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Sole Fusion - We Can Make It (Underground Netw_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Daphne - When You Love Someone (Groove mix).wav"/>
@@ -19016,7 +19016,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_House of Gypsies - Sume Sigh Say (Roger's Mood Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Ed The Red Goltsman _ - Nuclear Sun.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:Ed The Red Goltsman _ - Nuclear Sun.wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Black Science Orchestra - Philadelphia.wav"/>
@@ -19113,10 +19113,10 @@
             <NODE TYPE="PLAYLIST" NAME="H:soft">
               <PLAYLIST ENTRIES="35" TYPE="LIST">
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Keith Nunnally - Greed_ (Club Edit).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Keith Nunnally - Greed_ (Club Edit).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Sole Fusion - We Can Make It (Underground Netw_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Sole Fusion - We Can Make It (Underground Netw_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Daphne - When You Love Someone (Groove mix).wav"/>
@@ -19125,7 +19125,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_House of Gypsies - Sume Sigh Say (Roger's Mood Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Ed The Red Goltsman _ - Nuclear Sun.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:Ed The Red Goltsman _ - Nuclear Sun.wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Black Science Orchestra - Philadelphia.wav"/>
@@ -19243,7 +19243,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2009/:Michel Cleis - La Mezcla (Original Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Stardust - Music Sounds Bet_.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Stardust - Music Sounds Bet_.wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_U2 - Lemon (Bad Yard Club).wav"/>
@@ -19264,7 +19264,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2008/:Ultra Nate - Twisted (Louie Vega remix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (Original Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (Original Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2003/:v_Kenny Dope - Frenzy (Alt).wav"/>
@@ -19273,7 +19273,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2003/:v_Kenny Dope - Frenzy (Main).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Mood II Swing _ - Closer (Mood II Swing Ki_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Mood II Swing _ - Closer (Mood II Swing Ki_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:v_Bent - Always (Ashley Beedle's Mahavishnu Remix).wav"/>
@@ -19309,7 +19309,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2001/:Kings of Tomorrow - Finally (Original Extended Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil Louis - Y U Fall.wav"/>
@@ -19328,7 +19328,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Satoshi Tomiie - Tears (Classic Vocal).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Original Paradis_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Sueno Latino - Sueno Latino (Original Paradis_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Code 718 - Equinox (Heavenly Club Mix).wav"/>
@@ -19337,7 +19337,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Code 718 - Equinox (The Original Concept).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_The Beloved - Sun Rising (Danny's &quot;Love is_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_The Beloved - Sun Rising (Danny's &quot;Love is_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Nightcommunication EP - Night Clerk.wav"/>
@@ -19346,7 +19346,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Daphne - When You Love Someone (Groove mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Ed The Red Goltsman _ - Nuclear Sun.wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:Ed The Red Goltsman _ - Nuclear Sun.wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Mass - Nature Rise (Our Savior's Anthem).wav"/>
@@ -19358,7 +19358,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Elastic Reality - Cassa de X (Deep Dish Does X).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Donna Allen - Real (David Morales Cl_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Donna Allen - Real (David Morales Cl_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2010/:Akabu - Another Generation (Joey Negro Extended Mix).wav"/>
@@ -19455,7 +19455,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2007/:Nomumbah - Like A Rainbow (dub).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:Basil - City Streets (Kerri Chandler K_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:Basil - City Streets (Kerri Chandler K_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:Fluid X - Change.wav"/>
@@ -19719,7 +19719,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2009/:Sharam ft Kid Cudi - She Came Along (Sharam's Ecstasy Of Ibiza Edit).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (Rollo &amp; Sister B_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Donna Summer - I Feel Love (Rollo &amp; Sister B_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2003/:Starsailor - Four To The Floor (Thin White Duke Mix).wav"/>
@@ -19731,7 +19731,7 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Daft Punk - Around The World.wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Mariah Carey - Dream Lover (Mayhem Musaphia _).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Mariah Carey - Dream Lover (Mayhem Musaphia _).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Heartists - Belo Horizonti (Brix Edit).wav"/>
@@ -19746,22 +19746,22 @@
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2007/:v_Diddy ft Keyshia Cole - Last Night (Explicit).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Eddie Amador - Rise (Deep Dish vs Edd_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:Eddie Amador - Rise (Deep Dish vs Edd_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Everything But The Girl - Missing (Todd Terry Club Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_De'Lacy - Hideaway (Sharams Journey _).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_De'Lacy - Hideaway (Sharams Journey _).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Diana Ross - I Will Survive (Roger Sanchez Ov_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Diana Ross - I Will Survive (Roger Sanchez Ov_).wav"/>
                 </ENTRY>
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Olive - You're Not Alone (Matthew Roberts'_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Olive - You're Not Alone (Matthew Roberts'_).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_The Sunburst Band - Garden of Love (Joey Negro Club mix).wav"/>
@@ -19778,7 +19778,7 @@
             <NODE TYPE="PLAYLIST" NAME="g2 mondo">
               <PLAYLIST ENTRIES="5" TYPE="LIST">
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Kerri Chandler _ - Powder (Deep @ Legends Mix).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:Kerri Chandler _ - Powder (Deep @ Legends Mix).wav"/>
                 </ENTRY>
                 <ENTRY>
                   <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mondo Grosso - Souffles H (King Street Club Mix).wav"/>
@@ -19824,7 +19824,7 @@
             <NODE TYPE="PLAYLIST" NAME="g6 moan">
               <PLAYLIST ENTRIES="1" TYPE="LIST">
                 <ENTRY>
-                  <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
+                  <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
                 </ENTRY>
               </PLAYLIST>
             </NODE>
@@ -19855,13 +19855,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Gibson Brothers - Cuba (The Remixes 12&quot; b2).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Roy Ayers Ubiquity - Love Will Bring _.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1979/:v_Roy Ayers Ubiquity - Love Will Bring _.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Roy Ayers Ubiquity - Running Away.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Taana Gardner - When You Touch Me (Original 12&quot; Ins_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1979/:v_Taana Gardner - When You Touch Me (Original 12&quot; Ins_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Taana Gardner - When You Touch Me (Original 12&quot; Vocal).wav"/>
@@ -19870,7 +19870,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_The Beloved - Sun Rising (Intensita').wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_The Beloved - Sun Rising (Danny's &quot;Love is_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_The Beloved - Sun Rising (Danny's &quot;Love is_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Richie Rich - Salsa House (Orbital mix).wav"/>
@@ -19894,16 +19894,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Satoshi Tomiie - Tears (Full Intention Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Satoshi Tomiie - Tears (Full Intention's_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Satoshi Tomiie - Tears (Full Intention's_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Derrick May Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Express of Sound_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Sueno Latino - Sueno Latino (Express of Sound_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Sueno Latino - Sueno Latino (Original Paradis_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Sueno Latino - Sueno Latino (Original Paradis_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1990/:v_808 State - Cubik (Original 12&quot; Mix).wav"/>
@@ -19918,37 +19918,37 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Djaimin - Give You (Djaimin Zanz Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Keith Nunnally - Greed_ (Club Edit).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Keith Nunnally - Greed_ (Club Edit).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Simone - Hey Fellas (Morel's Gospel Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Sole Fusion - We Can Make It (Underground Netw_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Sole Fusion - We Can Make It (Underground Netw_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:The Daou - Surrender Yourself (DT's Ballroom Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Joint Venture - Master Blaster_ (Tha Wild Pitch mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Joint Venture - Master Blaster_ (Tha Wild Pitch mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (Bellbottoms &amp; Pl_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (Bellbottoms &amp; Pl_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (DJ Pierre's Afro_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (DJ Pierre's Afro_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (I'm On The Guest_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (I'm On The Guest_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (Latin Groove Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (Latin Groove Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (Not On The List _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (Not On The List _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil' Louis _ - Club Lonely (Real Instrumental Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Lil' Louis _ - Club Lonely (Real Instrumental Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Nightcommunication EP - Lose Control (In Dub We Trust Mix).wav"/>
@@ -19969,7 +19969,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Masters At Work - Gonna Get Back To You (Ken Lou Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Masters At Work - Gonna Get Back To You (Mood II Swing &quot;B_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Masters At Work - Gonna Get Back To You (Mood II Swing &quot;B_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Jazzy - Lonely (Club Mix).wav"/>
@@ -19981,22 +19981,22 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Jazzy - Lonely (Instrumental Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Jazzy - Lonely (Underground Good_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Drum Thang Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Drum Thang Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Hard Love Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Hard Love Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Heart Beat Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Heart Beat Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Meli'sa's In The_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Meli'sa's In The_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Still In Love Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Meli'sa Morgan - Still In Love Wi_ (Still In Love Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Daphne - When You Love Someone (Groove mix).wav"/>
@@ -20017,13 +20017,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:The Daou - Give Myself To You (Grand Ballroom Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Masters At Work _ - I Can't Get No Sleep (Her Fantasy Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Masters At Work _ - I Can't Get No Sleep (Her Fantasy Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Masters At Work ft India - I Can't Get No Sleep (Ken//Lou 12&quot;).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_House of Gypsies - Sume Sigh Say (Da S-man's Jungl_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_House of Gypsies - Sume Sigh Say (Da S-man's Jungl_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_House of Gypsies - Sume Sigh Say (Roger's Mood Mix).wav"/>
@@ -20035,22 +20035,22 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_House of Gypsies - Sume Sigh Say (The Masters Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Ed The Red Goltsman _ - Nuclear Sun.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:Ed The Red Goltsman _ - Nuclear Sun.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_MCJ _ - I'm Ready_ (Acapella).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_MCJ _ - I'm Ready_ (Acapella).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_MCJ _ - I'm Ready_ (Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_MCJ _ - I'm Ready_ (Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_MCJ _ - I'm Ready_ (Maxx Suite).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_MCJ _ - I'm Ready_ (Maxx Suite).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_MCJ _ - I'm Ready_ (The &quot;Get Ready&quot; mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_MCJ _ - I'm Ready_ (The &quot;Get Ready&quot; mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:95 North _ - Hold On (Louie's King Str_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:95 North _ - Hold On (Louie's King Str_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Barbara Tucker - I Get Lifted (The Bar Dub).wav"/>
@@ -20074,10 +20074,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Mass - Nature Rise (Our Savior's Anthem).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Liberty City - If You Really Lo_ (Original Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Liberty City - If You Really Lo_ (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Liberty City - If You Really Lo_ (The Murk Groove Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Liberty City - If You Really Lo_ (The Murk Groove Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Loop 7 - The Theme (The Legend).wav"/>
@@ -20086,22 +20086,22 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Pleasure Dome - 12 Minutes To Do It.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Conga Drums.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Conga Drums.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean - Love &amp; Happiness (Junior Boys Own _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:River Ocean - Love &amp; Happiness (Junior Boys Own _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean - Tito &amp; India.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Sun, Sun, Sun - Curious (Vocal Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Angel Moraes - Heaven Knows_ (Angels Factory Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Angel Moraes - Heaven Knows_ (Angels Factory Dub).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Danny Tenaglia - Bottom Heavy (Long mix).wav"/>
@@ -20110,22 +20110,22 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Danny Tenaglia - Bottom Heavy.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Elastic Reality - Cassa de X (Deep Dish Chambe_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Elastic Reality - Cassa de X (Deep Dish Chambe_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Elastic Reality - Cassa de X (Deep Dish Does X).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:X Fade _ - Good Plenty Love (The Wild Pitch Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:X Fade _ - Good Plenty Love (The Wild Pitch Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Underground Sound of Lisbon - So Get Up (Acapella).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Underground Sound of Lisbon - So Get Up (Danny Tenaglia A_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Underground Sound of Lisbon - So Get Up (Danny Tenaglia A_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Donna Allen - Real (David Morales Cl_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Donna Allen - Real (David Morales Cl_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Incognito - Jacobs Ladder (MAW Yorican Mix).wav"/>
@@ -20134,22 +20134,22 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Joi Cardwell - Trouble (Deep Dish Vocal Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Joi Cardwell - Trouble (Tom Moulton's Ne_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Joi Cardwell - Trouble (Tom Moulton's Ne_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Joi Cardwell - Trouble (UBQ's Club Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - La Rumba.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - La Rumba.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Love &amp; Happiness (Dream Sequence).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Love &amp; Happiness (Dream Sequence).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Love &amp; Happiness (Junior Boys Own _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Love &amp; Happiness (Junior Boys Own _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Tito &amp; India.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Tito &amp; India.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Voices - Voices In My Mind (Chant Beats).wav"/>
@@ -20161,7 +20161,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_De'Lacy - Hideaway (Deep Dish Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_De'Lacy - Hideaway (Sharams Journey _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_De'Lacy - Hideaway (Sharams Journey _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - Beautiful People (Beautiful Reprise).wav"/>
@@ -20176,7 +20176,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - Beautiful People (Original Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - Beautiful People (Underground Netw_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Barbara Tucker - Beautiful People (Underground Netw_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Everything But The Girl - Missing (Lite Mix).wav"/>
@@ -20188,10 +20188,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Everything But The Girl - Missing (Todd Terry Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - I Get Lifted (Armand's &quot;Lift M_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Barbara Tucker - I Get Lifted (Armand's &quot;Lift M_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - I Get Lifted (Boyd Slams The O_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Barbara Tucker - I Get Lifted (Boyd Slams The O_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - I Get Lifted (Duck Beats).wav"/>
@@ -20203,7 +20203,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - I Get Lifted (The Bar Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - I Get Lifted (The Underground _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Barbara Tucker - I Get Lifted (The Underground _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Barbara Tucker - I Get Lifted (X.T.C. Mix).wav"/>
@@ -20218,16 +20218,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Black Shells - The Anthem (Untitled Mix 2).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Lee Genesis - Ya Can't Separate Me_ (Boriqua Jungle Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Lee Genesis - Ya Can't Separate Me_ (Boriqua Jungle Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Lee Genesis - Ya Can't Separate Me_ (Jjk Rsm 2008 Voc_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Lee Genesis - Ya Can't Separate Me_ (Jjk Rsm 2008 Voc_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Lee Genesis - Ya Can't Separate Me_ (Jjk Rsm 2008 Voc_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Lee Genesis - Ya Can't Separate Me_ (Jjk Rsm 2008 Voc_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Lee Genesis - Ya Can't Separate Me_ (Original Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Lee Genesis - Ya Can't Separate Me_ (Original Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_The Boss - Congo (D Max Mix).wav"/>
@@ -20242,7 +20242,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Barbara Tucker - Beautiful People (Original Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_River Ocean _ - Love &amp; Happiness (12&quot; Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Pleasure Dome - 12 Minutes to do It.wav"/>
@@ -20257,13 +20257,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_People Underground - My Love (Louie's Factory Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_People Underground - My Love (The Underground _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_People Underground - My Love (The Underground _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Fire Island - If You Should Ne_ (Roc&amp;Kato Sax It _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Fire Island - If You Should Ne_ (Roc&amp;Kato Sax It _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Kings of Tomorrow - I'm So Grateful (Angel Moraes Smo_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Kings of Tomorrow - I'm So Grateful (Angel Moraes Smo_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Colonel Abrams - Victim Of Loving You (Broken Down Mix).wav"/>
@@ -20278,28 +20278,28 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Johnick - Play the World.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_The Bucketheads (Kenny Dope) - The Bomb (Kenny Dope) - Th_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (12&quot; Master At Wo_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Donna Summer - I Feel Love (12&quot; Master At Wo_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (Master At Work 8_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Donna Summer - I Feel Love (Master At Work 8_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (Master Hard Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Donna Summer - I Feel Love (Rollo &amp; Sister B_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Donna Summer - I Feel Love (Rollo &amp; Sister B_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mondo Grosso - Souffles H (King Street Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mondo Grosso - Souffles H (Live At The Soun_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mondo Grosso - Souffles H (Live At The Soun_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mondo Grosso - Souffles H (Louie's Phunky H_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mondo Grosso - Souffles H (Louie's Phunky H_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mondo Grosso - Souffles H (MAW Dub Mix).wav"/>
@@ -20314,7 +20314,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Barbara Tucker - Stay Together (G-Funk Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Barbara Tucker - Stay Together (Greeds Euphoric _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Barbara Tucker - Stay Together (Greeds Euphoric _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Barbara Tucker - Stay Together (Original Vocal Mix).wav"/>
@@ -20332,7 +20332,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Billie Ray Martin - Your Loving Arms (Soundfactory Vocal).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Barbara Tucker - Stay Together (Armand's Crazy T_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Barbara Tucker - Stay Together (Armand's Crazy T_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Barbara Tucker - Stay Together (Feliciano Broken Edit).wav"/>
@@ -20356,7 +20356,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Daft Punk - Da Funk.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Daft Punk - Daftendirekt + W_.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Daft Punk - Daftendirekt + W_.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Daft Punk - Daftendirekt.wav"/>
@@ -20416,16 +20416,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mone' - We Can Make It (D's Lab O Lurv Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mone' - We Can Make It (Jazz N' Groove 1_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mone' - We Can Make It (Jazz N' Groove 1_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mone' - We Can Make It (Joe T Vannelli Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mone' - We Can Make It (Joe T Vannelli C_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mone' - We Can Make It (Joe T Vannelli C_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mone' - We Can Make It (Joe T Vannelli V_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mone' - We Can Make It (Joe T Vannelli V_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mone' - We Can Make It (The &quot;I Believe&quot; Dub).wav"/>
@@ -20434,7 +20434,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mone' - We Can Make It (The Groove Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mone' - We Can Make It (Tommy D's Epic A_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mone' - We Can Make It (Tommy D's Epic A_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Scottie Deep - Brooklyn Beats.wav"/>
@@ -20461,7 +20461,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Smokin Beats - Dreams (Kings of Tomorrow Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Smokin Beats - Dreams (Kings of Tomorro_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Smokin Beats - Dreams (Kings of Tomorro_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Smokin Beats - Dreams (Mongorillo Dreams Mix).wav"/>
@@ -20470,7 +20470,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Smokin Beats - Dreams (Moreloids Dub Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Smokin Beats - Dreams (Original Mix wit_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Smokin Beats - Dreams (Original Mix wit_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Heartists - Belo Horizonti (Brix Edit).wav"/>
@@ -20479,28 +20479,28 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Heartists - Belo Horizonti (Dub-Duo Samba Vibe).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Olive - You're Not Alone (Matthew Roberts'_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Olive - You're Not Alone (Matthew Roberts'_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Olive - You're Not Alone (Rollo &amp; Sister B_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Olive - You're Not Alone (Rollo &amp; Sister B_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Diana Ross - I Will Survive (Roger Sanchez At_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Diana Ross - I Will Survive (Roger Sanchez At_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Diana Ross - I Will Survive (Roger Sanchez Ov_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Diana Ross - I Will Survive (Roger Sanchez Ov_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Diana Ross - I Will Survive (Roger Sanchez Pl_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Diana Ross - I Will Survive (Roger Sanchez Pl_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Diana Ross - I Will Survive (Sure Is Pure Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Diana Ross - I Will Survive (Sure Is Pure Dee_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Diana Ross - I Will Survive (Sure Is Pure Dee_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Cerrone - Supernature (Tenaglia Legenda_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:Cerrone - Supernature (Tenaglia Legenda_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Cheek - Venus (Sunshine People Remix).wav"/>
@@ -20545,7 +20545,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:Masters at Work - To Be in Love (MAW Club Edit).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:Roy Davis Jr _ - Gabriel (Live Garage).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:Roy Davis Jr _ - Gabriel (Live Garage).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:Urban Soul - Show Me (Def Club Mix).wav"/>
@@ -20566,7 +20566,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Urban Soul - Show Me, Part II (Him &amp; Her Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Urban Soul - Show Me, Part II (Phillip and Dann_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Urban Soul - Show Me, Part II (Phillip and Dann_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Jaydee - Plastic Dreams (Angel's Dream Mix).wav"/>
@@ -20587,16 +20587,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_The Ladbroke Groovers - Seasons Of Time (Spaced Out Beats).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Big Moses _ - Brighter Days (Matty's Deep Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Big Moses _ - Brighter Days (Matty's Deep Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Big Moses _ - Brighter Days (Mousse T's Fierc_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Big Moses _ - Brighter Days (Mousse T's Fierc_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Big Moses _ - Brighter Days (Mousse T's Funk Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Big Moses _ - Brighter Days (Mousse T's Funk Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Big Moses _ - Brighter Days (Original Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Big Moses _ - Brighter Days (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_India - La India Con Lavoe (Remixed by MAW).wav"/>
@@ -20605,19 +20605,19 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_India - To Be In Love (Remixed by MAW).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:Black Magic - Dance_ (MAW Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:Black Magic - Dance_ (MAW Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:Ultra Nate - Free (Mood II Swing Ex_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:Ultra Nate - Free (Mood II Swing Ex_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:Nalin &amp; Kane - Beachball (Extended Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_MAW - To Be In Love (The Black Scienc_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_MAW - To Be In Love (The Black Scienc_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_MAW - To Be In Love (The Tribal Scien_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_MAW - To Be In Love (The Tribal Scien_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_The Deep - Dom Dom Jump (Original Mix).wav"/>
@@ -20653,7 +20653,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Eddie Amador - House Music (Message Gan Edit).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Stardust - Music Sounds Bet_.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Stardust - Music Sounds Bet_.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Daft Punk - Around The World (Kenlou Mix).wav"/>
@@ -20665,10 +20665,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Erick 'More' Morillo - Dancin (A 'Little'-'More' Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Erick 'More' Morillo - Dancin (A 'Little'-'More_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Erick 'More' Morillo - Dancin (A 'Little'-'More_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Erick 'More' Morillo - Dancin (Erick 'More's Or_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Erick 'More' Morillo - Dancin (Erick 'More's Or_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_The Don - The Horn Song (Deep Bomb Mix).wav"/>
@@ -20704,13 +20704,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Johnick - The Captain.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Scott Grooves _ - Organ Nights.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Scott Grooves _ - Organ Nights.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Aril Brikha - Groove La Chord.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Deepswing _ - Takin Me Higher (Classic Instrumental).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Deepswing _ - Takin Me Higher (Classic Instrumental).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Le Knight Club - Boogie Shell.wav"/>
@@ -20719,28 +20719,28 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Davidson Ospina - Strings (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Danny Tenaglia - Turn Me On (John Ciafone's C_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:Danny Tenaglia - Turn Me On (John Ciafone's C_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Eddie Amador - Rise (Deep Dish vs Edd_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:Eddie Amador - Rise (Deep Dish vs Edd_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Kimara Lovelace - I Luv You More (Sean McCabe Demo Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys acapp_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys acapp_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys club remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys club remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys dub remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Liquid Measures _ - Take Me Up (Pasta Boys dub remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Armand van Helden _ - Flowerz (Tv Track).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Armand van Helden _ - Flowerz (Tv Track).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Armand van Helden _ - Flowerz.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Armand van Helden _ - Flowerz.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Mang'e Le Funk - I Still Want You (Latino Pella Mix).wav"/>
@@ -20752,7 +20752,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Mang'e Le Funk - I Still Want You.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Pete Heller - Big Love (Pete Heller's Or_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Pete Heller - Big Love (Pete Heller's Or_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Pete Heller - Big Love (The Dronez Dub).wav"/>
@@ -20764,16 +20764,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Kerri Chandler - Coro (Kaoz 6-23 Dark Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Jamie Lewis _ - For You (Moodbangers Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:Jamie Lewis _ - For You (Moodbangers Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Deepswing _ - Takin Me Higher (Classic Vocal).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Deepswing _ - Takin Me Higher (Classic Vocal).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Deepswing _ - Takin Me Higher (Original Filtere_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Deepswing _ - Takin Me Higher (Original Filtere_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Deepswing _ - Takin Me Higher (Original Filtere_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Deepswing _ - Takin Me Higher (Original Filtere_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Le Knight Club - Coco Girlz.wav"/>
@@ -20791,7 +20791,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Joe Claussell - Je Ka Jo (Original Vocal).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_The Ones - Flawless (A Touch Of Class_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_The Ones - Flawless (A Touch Of Class_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_The Ones - Flawless (Italo Disco Mix).wav"/>
@@ -20806,19 +20806,19 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Three Fierce Divas - Sweet Love (Hump Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Three Fierce Divas - Sweet Love (Spen &amp; Karizma 1_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Three Fierce Divas - Sweet Love (Spen &amp; Karizma 1_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Dubtribe Sound System - Equitorial.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Joaquin &quot;Joe&quot; Claussel _ - Evora (Vocal Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Joaquin &quot;Joe&quot; Claussel _ - Evora (Vocal Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Mary J Blige - Beautiful (Dub II).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Hardrive 2000 _ - Never Forget [Wh_ (Dance Ritual Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Hardrive 2000 _ - Never Forget [Wh_ (Dance Ritual Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Mary J Blige - Beautiful (Dub).wav"/>
@@ -21763,7 +21763,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Jasper Street Company - A Feelin (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_The Don - The Horn Song (Wild Pitch Instr_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_The Don - The Horn Song (Wild Pitch Instr_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2008/:Timo Garcia ft Manu Delago - The Hang Drum Track (Original Mix).wav"/>
@@ -21784,7 +21784,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Funky Green Dogs - Reach For Me.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Crystal Waters - Gypsy Woman (Basement Boys 'S_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Crystal Waters - Gypsy Woman (Basement Boys 'S_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Reese Project - Color Of Love (Deep Reese Mix).wav"/>
@@ -21796,28 +21796,28 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_U2 - Lemon (Bad Yard Club).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Blackman - Beat That Bitch _.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:Blackman - Beat That Bitch _.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:Gerideau - Take A Stand For Love (Blaze Shelter Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:The Project _ - Bring It Back 2 Luv (Radio Edit).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:The Project _ - Bring It Back 2 Luv (Radio Edit).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Daphne - When You Love Someone (The Reconstructi_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Daphne - When You Love Someone (The Reconstructi_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Gerideau - Take A Stand (Mentalinstrum &quot;F_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Gerideau - Take A Stand (Mentalinstrum &quot;F_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Gerideau - Take A Stand (Newly Recorded P_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Gerideau - Take A Stand (Newly Recorded P_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Gerideau - Take A Stand (Original - New E_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Gerideau - Take A Stand (Original - New E_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Gerideau - Take A Stand (Smack &quot;Rain Vibe_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Gerideau - Take A Stand (Smack &quot;Rain Vibe_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Kerri Chandler - Atmosphere EP (Climax 1).wav"/>
@@ -21832,10 +21832,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Kerri Chandler - Atmosphere EP (Track 2).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Mariah Carey - Dream Lover (Mayhem Musaphia _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Mariah Carey - Dream Lover (Mayhem Musaphia _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Mariah Carey - Dream Lover (Mayhem Musaphia _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Mariah Carey - Dream Lover (Mayhem Musaphia _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_U2 - Lemon (Momo Beats).wav"/>
@@ -21865,28 +21865,28 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Daphne - Change (Theme From Change).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (MURK Dubs Again_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (MURK Dubs Again_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (Original Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Michael Watford - So Into You (Album Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (MURK Dubs Again).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (MURK Dubs Again).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (MURK Strikes Aga_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (MURK Strikes Aga_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (Robo Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (Robo Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (TRIBAL Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (TRIBAL Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (Vapor Rub Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (Vapor Rub Dub).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_The Sounds Of Blackness - I Believe (Classic Gospel Mix).wav"/>
@@ -21895,13 +21895,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_The Sounds Of Blackness - I Believe (Deliverance Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Liberty City - If You Really Wa_ (The MURK Groove).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Liberty City - If You Really Wa_ (The MURK Groove).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Michael Watford - So Into You (Dub Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_The Sounds Of Blackness - I Believe (Original Album V_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_The Sounds Of Blackness - I Believe (Original Album V_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_The Sounds Of Blackness - I Believe (Principle Faith Mix).wav"/>
@@ -21922,7 +21922,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Andrea Mendez - Bring Me Love (Dub Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Romanthony Pres Lifestyles - Trust (Jaj-J's Moulton _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Romanthony Pres Lifestyles - Trust (Jaj-J's Moulton _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Romanthony Pres Lifestyles - Trust (Kerri Chandler Dub).wav"/>
@@ -21937,10 +21937,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Romanthony Pres Lifestyles - Trust (Trust Dnr Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Romanthony Pres Lifestyles - Trust (Original Mix Re-_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Romanthony Pres Lifestyles - Trust (Original Mix Re-_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Mood II Swing _ - Closer (Mood II Swing Ki_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Mood II Swing _ - Closer (Mood II Swing Ki_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Groove Box - Casio's Theme.wav"/>
@@ -21955,16 +21955,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Cesaria Evoria - Sangue De Beirona (Remix de Francois K).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Cesaria Evoria - Sangue De Beirona (Remix de Francoi_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Cesaria Evoria - Sangue De Beirona (Remix de Francoi_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:Basil - City Streets (Kerri Chandler K_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:Basil - City Streets (Kerri Chandler K_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cricco Castelli - Life Has Changed.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cricco Castelli - Life Is Changing (Freaks Turning 0_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Cricco Castelli - Life Is Changing (Freaks Turning 0_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cricco Castelli - Life Is Changing.wav"/>
@@ -21976,37 +21976,37 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Kerri Chandler - Atmosphere (Jerome's Runaway Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Sonique - Feels So Good (Can 7 Soulfood C_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Sonique - Feels So Good (Can 7 Soulfood C_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Sonique - Feels So Good (En-Motion Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Sonique - Feels So Good (Original Breakbe_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Sonique - Feels So Good (Original Breakbe_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Solid Groove - I say!.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Jephte' Guillaume - Priye'-a_ (99 Prayer Remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Jephte' Guillaume - Priye'-a_ (99 Prayer Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Jephte' Guillaume - Priye'-a_ (Acroostic Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Jephte' Guillaume - Priye'-a_ (Acroostic Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Solid Groove - Straight Jakin'.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Jephte' Guillaume - Priye'-a_ (La Oracion Remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Jephte' Guillaume - Priye'-a_ (La Oracion Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Jephte' Guillaume - Priye'-a_ (Le 1978 Remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Jephte' Guillaume - Priye'-a_ (Le 1978 Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Jephte' Guillaume - Priye'-a_ (Original Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Jephte' Guillaume - Priye'-a_ (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Jephte' Guillaume - Priye'-a_ (Tet Kale Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Jephte' Guillaume - Priye'-a_ (Tet Kale Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:v_Kerri Chandler - Atmospheric Beats.wav"/>
@@ -22141,7 +22141,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Lil Louis - Y U Fall.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Bas Noir - Shoebdoo (Kerri's Classic _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Bas Noir - Shoebdoo (Kerri's Classic _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Caucasian Boy - Honeydip (Double Dipped Dub Mix).wav"/>
@@ -22153,16 +22153,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Caucasian Boy - Northern Lights (Old Skool Re-edit).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Project 4007 _ - It's Our Turn (4007 Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Project 4007 _ - It's Our Turn (4007 Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Project 4007 _ - It's Our Turn (It's Our Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Project 4007 _ - It's Our Turn (It's Our Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Project 4007 _ - It's Our Turn (LP Version).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Project 4007 _ - It's Our Turn (LP Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Project 4007 _ - It's Our Turn (the Raw Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Project 4007 _ - It's Our Turn (the Raw Dub).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Armand Van Helden - Witch Doktor (The Dark Ages Mix).wav"/>
@@ -22171,52 +22171,52 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Armand Van Helden - Witch Doktor (The Possessed Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Prana - The Dream (Dubfire's Dream _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Prana - The Dream (Dubfire's Dream _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Prana - The Dream (Dubfire's Paradi_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Prana - The Dream (Dubfire's Paradi_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Prana - The Dream (Sharam's Deep Di_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Prana - The Dream (Sharam's Deep Di_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Roach Motel - 'Wild Luv (Superchumbo Roac_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Roach Motel - 'Wild Luv (Superchumbo Roac_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Roach Motel - 'Wild Luv.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Masters At Work _ - I Can't Get No S_ (Dreamin' Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Masters At Work _ - I Can't Get No S_ (Dreamin' Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Masters At Work _ - I Can't Get No S_ (Horny Beats).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Masters At Work _ - I Can't Get No S_ (Horny Beats).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Masters At Work _ - I Can't Get No S_ (Indy's Tribin' Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Masters At Work _ - I Can't Get No S_ (Indy's Tribin' Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Masters At Work _ - I Can't Get No S_ (Morales Late Nig_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Masters At Work _ - I Can't Get No S_ (Morales Late Nig_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Tori Amos - Professional Widow (Armand's Star Tr_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Tori Amos - Professional Widow (Armand's Star Tr_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Cheek - Venus_ (Dj Gregory Remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Cheek - Venus_ (Dj Gregory Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Cheek - Venus_ (I.Cube Remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Cheek - Venus_ (I.Cube Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Cheek - Venus_ (Pepe Bradock Remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Cheek - Venus_ (Pepe Bradock Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Fonda Rae - Living In Ecstasy_ (JC's Ecstasy Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Fonda Rae - Living In Ecstasy_ (JC's Ecstasy Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Fonda Rae - Living In Ecstasy_ (Mood II Swing NY Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Fonda Rae - Living In Ecstasy_ (Mood II Swing NY Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Fonda Rae - Living In Ecstasy_ (The Groove Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Fonda Rae - Living In Ecstasy_ (The Groove Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Basement Jaxx - Fly Life (Original Mix).wav"/>
@@ -22225,28 +22225,28 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Sex-o-Sonique - I Thought It Was You (12 Inch Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Lovebeads - This Is The Only Way (Mount Rushmore's_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Lovebeads - This Is The Only Way (Mount Rushmore's_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Freestyle Orchestra - Twi-Lite (K-Dope Twi-Lite).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Freestyle Orchestra - I Don't Understa_ (I Just Don't Und_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Freestyle Orchestra - I Don't Understa_ (I Just Don't Und_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Freestyle Orchestra - I Don't Understa_ (I'm Not Feelin' This).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Freestyle Orchestra - I Don't Understa_ (I'm Not Feelin' This).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Freestyle Orchestra - Twi-Lite.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_H20 _ - Take Me Higher (Original Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_H20 _ - Take Me Higher (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_H20 _ - You Can Run (Original Vocal).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_H20 _ - You Can Run (Original Vocal).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Manu Dibango _ - New Bell.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Manu Dibango _ - New Bell.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Masters At Work - I'm Ready.wav"/>
@@ -22261,7 +22261,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Sabrynaah Pope - Shelter (Jamie Lewis Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Sabrynaah Pope - Shelter (Sandy K.O.T. Riv_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Sabrynaah Pope - Shelter (Sandy K.O.T. Riv_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Mongobonix - So Deep.wav"/>
@@ -22270,7 +22270,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Mongobonix - Mas-Pito.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Cevin Fisher - Music Saved My Life (Black Science Or_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Cevin Fisher - Music Saved My Life (Black Science Or_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Cottage Alert - Lost Love (Luke's Loop).wav"/>
@@ -22294,13 +22294,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Cevin Fisher - Music Saved My Life (Pete Heller Beatz Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Cevin Fisher - Music Saved My Life (Pete Heller Groo_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Cevin Fisher - Music Saved My Life (Pete Heller Groo_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Cevin Fisher - Music Saved My Life (Soul Renegades Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Donna Allen - He Is The Joy (Jose Nunez &quot;Subl_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Donna Allen - He Is The Joy (Jose Nunez &quot;Subl_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Donna Allen - He Is The Joy (Jose Nunez Vocal Mix).wav"/>
@@ -22315,7 +22315,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Donna Allen - He Is The Joy (U.B.P. Prime Time Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention - A Definite Stran_ (Full Intention 2_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Gus Gus - Very Important People (Fire Island Dub).wav"/>
@@ -22327,7 +22327,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Gus Gus - Very Important People (Francois K. Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Gus Gus - Very Important People (Masters At Work _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Gus Gus - Very Important People (Masters At Work _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Soul Vision - Don't Stop (Acapella).wav"/>
@@ -22924,22 +22924,22 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Caucasian Boy - Northern Lights (The Prime Cutz Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Karen Pollack - You Can't Touch Me (Fire Island Sult_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Karen Pollack - You Can't Touch Me (Fire Island Sult_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Liquid City - Givin My All (Forgotten Gypsy _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:Liquid City - Givin My All (Forgotten Gypsy _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:E-N - The Horn Ride (Danny Tenaglia Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:E-N - The Horn Ride (Deep Dish On Som_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:E-N - The Horn Ride (Deep Dish On Som_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Kerri Chandler - Atmosphere (Kerri's Foundati_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Kerri Chandler - Atmosphere (Kerri's Foundati_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Kerri Chandler _ - Powder (Deep @ Legends Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:Kerri Chandler _ - Powder (Deep @ Legends Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2001/:Soul Providers - Rise (Ricky Montanari &amp; Stefano Greppi Dark Vocal Mix).wav"/>
@@ -23050,34 +23050,34 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Masters At Work - Odyssey.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Black - Wonderful Life (Nick Tohme Bootleg).mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Black - Wonderful Life (Nick Tohme Bootleg).mp3"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Jamie Woon - Night Air (Solomun Edit).mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Jamie Woon - Night Air (Solomun Edit).mp3"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Mrmilkcarton - I Can Fly.mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Mrmilkcarton - I Can Fly.mp3"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Black - Wonderful Life (Caval &amp; Razaar E_).mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Black - Wonderful Life (Caval &amp; Razaar E_).mp3"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Jamie Woon - Night Air (Official Video).mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Jamie Woon - Night Air (Official Video).mp3"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Kid Cudi - Pursuit Of Happiness (Steve Aoki Remix).mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Kid Cudi - Pursuit Of Happiness (Steve Aoki Remix).mp3"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Black - Wonderful Life (Kenny Ground &amp; D_).mp3"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp3/:Black - Wonderful Life (Kenny Ground &amp; D_).mp3"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Karen Pollack - You Cant Touch Me (Fire Island Sult_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Karen Pollack - You Cant Touch Me (Fire Island Sult_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Karen Pollack - You Cant Touch M_ (Murk Remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:Karen Pollack - You Cant Touch M_ (Murk Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Carolyn Harding _ - Sing A Song (Masters At Work'_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Carolyn Harding _ - Sing A Song (Masters At Work'_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:Fischerspooner - Emerge.wav"/>
@@ -23101,73 +23101,73 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1990/:Earth People - Dance (Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Jamie Woon - Night Air.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Jamie Woon - Night Air.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Nelly Furtado - Say It Right.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Nelly Furtado - Say It Right.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Stromae - Alors On Danse (Extended Mix).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Stromae - Alors On Danse (Extended Mix).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Jovanotti - Tutto L'Amore Che Ho.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Jovanotti - Tutto L'Amore Che Ho.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Luxor - Back to Love (Stefano Greppi Mix).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Luxor - Back to Love (Stefano Greppi Mix).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Steve Jablonsky - My Name Is Lincoln.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Steve Jablonsky - My Name Is Lincoln.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Stromba - Giddy Up.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Stromba - Giddy Up.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Adeva - Beautiful Love (Classic Club Mix).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Adeva - Beautiful Love (Classic Club Mix).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Adeva - It Should Have B_ (Classic Club Mix).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Adeva - It Should Have B_ (Classic Club Mix).m4a"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Sigur Rós - Inní Mér Syngur Vitleysingur.2011.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Stromae - Alors On Danse (Mowgli Remix).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Stromae - Alors On Danse (Mowgli Remix).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Lana del Rey - Summertime Sadness (Radio Mix Extend_).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Lana del Rey - Summertime Sadness (Radio Mix Extend_).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Luxor - Back to Love (M.A.S. Collectiv_).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Luxor - Back to Love (M.A.S. Collectiv_).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Tasmin Archer - Sleeping Satellite (Extended Version).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Tasmin Archer - Sleeping Satellite (Extended Version).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Oleta Adams - Never Knew Love (Phil Coxon Edit).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Oleta Adams - Never Knew Love (Phil Coxon Edit).m4a"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Yann Tiersen - Comptine D'Un Autre Été, L'Après-Midi (Live).2008.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Grace Jones - Slave To The Rhythm (Hot Blooded Version).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Grace Jones - Slave To The Rhythm (Hot Blooded Version).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Dusted - Always Remember _.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Dusted - Always Remember _.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Crystal Castles - Year Of Silence.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Crystal Castles - Year Of Silence.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:A-Trak &amp; Tommy Trash - Tuna Melt (Les Rythmes Digi_).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:A-Trak &amp; Tommy Trash - Tuna Melt (Les Rythmes Digi_).m4a"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Davina-Carolin - Comptine D'Un Autre Été, L'Après-Midi (Large Version).2015.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Lana Del Rey - Summertime Sadness (Hannes Fischer N_).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Lana Del Rey - Summertime Sadness (Hannes Fischer N_).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Kings Of Tomorrow - Fall For You (Sandy Rivera's C_).mp4"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1mp4/:Kings Of Tomorrow - Fall For You (Sandy Rivera's C_).mp4"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1mp3/:Voices.mp3"/>
@@ -23203,25 +23203,25 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1986/:The It - Donnie (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1986/:Farley Jackmaster Funk - Love Cant Turn Around (Ben Liebrand Hou_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1986/:Farley Jackmaster Funk - Love Cant Turn Around (Ben Liebrand Hou_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1986/:v_Brooklyn Express - 86.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1986/:Frankie Knuckles _ - Your Love.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1986/:Frankie Knuckles _ - Your Love.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1988/:Jungle Brothers - I'll House You (Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1988/:v_Kariya - Let Me Love You _ (Acapella).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1988/:v_Kariya - Let Me Love You _ (Acapella).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1988/:v_Kariya - Let Me Love You _ (Original House Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1988/:v_Kariya - Let Me Love You _ (Original House Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1988/:v_Mr. Fingers - Can You Feel It (Martin Luther Ki_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1988/:v_Mr. Fingers - Can You Feel It (Martin Luther Ki_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1988/:v_Mr. Fingers - Can You Feel It (Robert Owens mix).wav"/>
@@ -23269,10 +23269,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Beloved - The Sun Rising.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Lil Louis - French Kiss (Talkin' All That_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Lil Louis - French Kiss (Talkin' All That_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1989/:v_Lil Louis - French Kiss (The Original Und_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1989/:v_Lil Louis - French Kiss (The Original Und_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:Don Carlos - Alone (Saxambient).wav"/>
@@ -23341,7 +23341,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Coco Steel &amp; Lovebomb - Feel It (Original Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Frankie Knuckles - The Whistle Song (Paul Shapiro Sup_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Frankie Knuckles - The Whistle Song (Paul Shapiro Sup_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Freefall - Sofa Surfing.wav"/>
@@ -23362,7 +23362,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Johanna - Freak It! (Instrumental).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_St Etienne - Only Love Can Br_ (MAW Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_St Etienne - Only Love Can Br_ (MAW Dub).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Johanna - Freak It! (Radio Version).wav"/>
@@ -23377,22 +23377,22 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Cola Boy - 7 Ways To Love (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Cola Boy - 7 Ways To Love (Straight To The _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Cola Boy - 7 Ways To Love (Straight To The _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Degrees Of Motion - Do You Want It R_ (Biti-pella).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Degrees Of Motion - Do You Want It R_ (Biti-pella).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Degrees Of Motion - Do You Want It R_ (Bump Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Degrees Of Motion - Do You Want It R_ (Bump Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Degrees Of Motion - Do You Want It R_ (Extended Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Degrees Of Motion - Do You Want It R_ (Extended Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Degrees Of Motion - Do You Want It R_ (King St. Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Degrees Of Motion - Do You Want It R_ (King St. Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Degrees Of Motion - Do You Want It R_ (Motion Beats).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Degrees Of Motion - Do You Want It R_ (Motion Beats).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Don Carlos - Still Alone (Joey Negro Re-Edit).wav"/>
@@ -23428,16 +23428,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Cola Boy - 7 Ways To Love (I Pour The Cola).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Frankie Knuckles - The Whistle Song (Paul Shapiro Rei_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Frankie Knuckles - The Whistle Song (Paul Shapiro Rei_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Frankie Knuckles - The Whistle Song (Sound Factory 12_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Frankie Knuckles - The Whistle Song (Sound Factory 12_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Massive Attack - Unfinished Sympathy (Instrumental).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Massive Attack - Unfinished Sympathy (Paul Oakenfold I_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_Massive Attack - Unfinished Sympathy (Paul Oakenfold I_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Rhythm On The Loose - Break Of Dawn (Original Mix).wav"/>
@@ -23446,7 +23446,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_Urban Soul - Alright (Extended).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:v_The Source _ - You Got The Love.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:v_The Source _ - You Got The Love.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Age Of Love - The Age Of Love (Boeing Mix).wav"/>
@@ -23491,7 +23491,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Gat Decor - Passion (Naked Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Gat Decor - Passion (Passion Of Your _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Gat Decor - Passion (Passion Of Your _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Gypsymen - Bounce (Wild Warped Mix).wav"/>
@@ -23506,25 +23506,25 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_House Of Gypsies - Samba (Tee's Freeze Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_James Howard - We Can Do It_ (Neal's Smooth Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_James Howard - We Can Do It_ (Neal's Smooth Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_James Howard - We Can Do It_ (Original Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_James Howard - We Can Do It_ (Original Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_James Howard - We Can Do It_ (Original Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_James Howard - We Can Do It_ (Original Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_James Howard - We Can Do It_ (The Wake Up Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_James Howard - We Can Do It_ (The Wake Up Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_The Principle Theory _ - Bitch (Sexy Bitch Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_The Principle Theory _ - Bitch (Sexy Bitch Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Age Of Love - The Age Of Love (Sign Of The Time Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Age Of Love - The Age Of Love (Watch Out For Th_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_Age Of Love - The Age Of Love (Watch Out For Th_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_Aural - Desire (Fabrice 4am Mix).wav"/>
@@ -23557,10 +23557,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_House Of Gypsies - Kool Life (Classic Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_The Principle Theory _ - Voyeur (Bonus Track).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_The Principle Theory _ - Voyeur (Bonus Track).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:v_The Principle Theory _ - Bitch (Instrumental).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1992/:v_The Principle Theory _ - Bitch (Instrumental).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Seven Grand Housing Authority - The Question (Original Mix).wav"/>
@@ -23569,7 +23569,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Seven Grand Housing Authority - The Question (Dj Edit).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1993/:v_Seven Grand Housing Authority - The Question (K-Klass Nightshi_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1993/:v_Seven Grand Housing Authority - The Question (K-Klass Nightshi_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_The Good Men - Damn Woman.wav"/>
@@ -23584,10 +23584,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Alison Limerick - Love Come Down (PG Tips Anthem Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Bobby Brown - Two Can Play Tha_ (2B3 Can Play Tha_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Bobby Brown - Two Can Play Tha_ (2B3 Can Play Tha_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Alison Limerick - Love Come Down (Paul Gotel Bange_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Alison Limerick - Love Come Down (Paul Gotel Bange_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_The Good Men - Make Up Your Mind.wav"/>
@@ -23596,31 +23596,31 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Voices - Voices In My Mind (Pressure Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Bobby Brown - Two Can Play Tha_ (K Klassic Radio Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Bobby Brown - Two Can Play Tha_ (K Klassic Radio Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Bobby Brown - Two Can Play Tha_ (The Games Over Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Bobby Brown - Two Can Play Tha_ (The Games Over Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Cajmere _ - Brighter Days (Louie's Masters _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Cajmere _ - Brighter Days (Louie's Masters _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Bobby Brown - Two Can Play Tha_ (K Klassic Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Bobby Brown - Two Can Play Tha_ (K Klassic Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Bobby Brown - Two Can Play Tha_ (Pharmaceutical Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Bobby Brown - Two Can Play Tha_ (Pharmaceutical Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Cajmere _ - Brighter Days (Original Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Cajmere _ - Brighter Days (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Cajmere _ - Brighter Days (Underground Good_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Cajmere _ - Brighter Days (Underground Good_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_The Good Men - Damn Woman (J-P Adventure).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Voices - Voices In My Mind (Minimum To Maxim_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1994/:v_Voices - Voices In My Mind (Minimum To Maxim_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Voices - Voices In My Mind (New York Mix).wav"/>
@@ -23632,31 +23632,31 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:v_Alison Limerick - Love Come Down (Club Vocal Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Frankie Knuckles _ - Too Many Fish (Album Version).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Frankie Knuckles _ - Too Many Fish (Album Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mozie B Project _ - Free (Free-apella).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mozie B Project _ - Free (Free-apella).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Frankie Knuckles _ - Too Many Fish (Classic Frankie _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Frankie Knuckles _ - Too Many Fish (Classic Frankie _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Frankie Knuckles _ - Too Many Fish (Morales' D-Bert Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Frankie Knuckles _ - Too Many Fish (Morales' D-Bert Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Frankie Knuckles _ - Too Many Fish (Morales' D-Max Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Frankie Knuckles _ - Too Many Fish (Morales' D-Max Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mozie B Project _ - Free (TNT Beats).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mozie B Project _ - Free (TNT Beats).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mozie B Project _ - Free (Tee's Freeze Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mozie B Project _ - Free (Tee's Freeze Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mozie B Project _ - Free (Terry's Cali Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mozie B Project _ - Free (Terry's Cali Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:v_Mozie B Project _ - Free (Carlos Sanchez' _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:v_Mozie B Project _ - Free (Carlos Sanchez' _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Bjork - Hyper-Ballad (Disco Synch Mix).wav"/>
@@ -23680,7 +23680,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Bjork - Hyper-Ballad (Tee's Freeze Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_De'Lacy - That Look (Deep Dish Vocal _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_De'Lacy - That Look (Deep Dish Vocal _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_De'Lacy - That Look (Hani's Club Look).wav"/>
@@ -23710,40 +23710,40 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Fine Young Cannibals - She Drives Me Crazy (Time &amp; Space Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (&quot;Rude Dog&quot; Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (&quot;Rude Dog&quot; Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (Dub American Style).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (Dub American Style).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (Johnick Henry St_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (Johnick Henry St_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (Original Sugar D_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (Original Sugar D_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (The Don's Hands _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (The Don's Hands _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (Todd Terry Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (Todd Terry Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (UBQ's State Side Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (UBQ's State Side Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Mike Delgado - Bonus Beat.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Absolute _ - I Believe (Lift You Up Vocal).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_The Absolute _ - I Believe (Lift You Up Vocal).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Absolute _ - I Believe (Mark !'s Full On_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_The Absolute _ - I Believe (Mark !'s Full On_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Absolute _ - I Believe (Never Bring You _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_The Absolute _ - I Believe (Never Bring You _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Beloved - Satellite (Height 611's Kun_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_The Beloved - Satellite (Height 611's Kun_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Beloved - Satellite (Transformer Vocal).wav"/>
@@ -23752,13 +23752,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_The Beloved - Satellite (Transmission Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (Full Length 12&quot; _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (Full Length 12&quot; _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Full Intention - America_ (Nevins Goldfinger Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Full Intention - America_ (Nevins Goldfinger Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:v_Bjork - Hyper-Ballad (David Morales Cl_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:v_Bjork - Hyper-Ballad (David Morales Cl_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Chiapet - Tick Tock (Apocalypse Now Mix).wav"/>
@@ -23770,16 +23770,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Jestofunk - Stellar Funk (Cosmo Latino rmx).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Joey Negro _ - Can't Get High W_ (Philly World Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Joey Negro _ - Can't Get High W_ (Philly World Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Joey Negro _ - Can't Get High W_ (Sessomatto Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Joey Negro _ - Can't Get High W_ (Sessomatto Dub).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Backroom Productions - Trouble (Version 1).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Joey Negro _ - New York City Woman.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Joey Negro _ - New York City Woman.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Jestofunk - Stellar Funk (Lazzaro Shoes rmx).wav"/>
@@ -23791,7 +23791,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Backroom Productions - Trouble (Version 2).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Jestofunk - Stellar Funk (Funk'n'Space Voc_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Jestofunk - Stellar Funk (Funk'n'Space Voc_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Jestofunk - Stellar Funk (Original Album).wav"/>
@@ -23800,7 +23800,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Jestofunk - Stellar Funk (T.World Zapp rmx).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Joey Negro _ - Can't Get High W_ (Accappella).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_Joey Negro _ - Can't Get High W_ (Accappella).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_Backroom Productions - Trouble (Version 4).wav"/>
@@ -23812,7 +23812,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_The Brand New Heavies - Shelter (Harvey's Disco Stomp).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_The Brand New Heavies - Shelter (Jan's Big Funk f_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:v_The Brand New Heavies - Shelter (Jan's Big Funk f_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_The Brand New Heavies - Shelter (Spike's Remix).wav"/>
@@ -23839,10 +23839,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Ja'nel - I'm a Queen (Pound Boys Anthem Vox).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Ja'nel - I'm a Queen (Shaheer Williams_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Ja'nel - I'm a Queen (Shaheer Williams_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Ja'nel - I'm a Queen (Underground Dwel_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Ja'nel - I'm a Queen (Underground Dwel_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Jody Watley - Off The Hook (Booker T Remix).wav"/>
@@ -23887,7 +23887,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Deep Dish - Junk Science.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Deep Dish - The Future Of Th_ (Stay Gold).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Deep Dish - The Future Of Th_ (Stay Gold).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Celetia - Rewind (M.Doc Remix).wav"/>
@@ -23929,10 +23929,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Bob Sinclair - Vision of Paradise.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cevin Fisher - (You Got Me) Bur_ (A).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Cevin Fisher - (You Got Me) Bur_ (A).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cevin Fisher - (You Got Me) Bur_ (B).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Cevin Fisher - (You Got Me) Bur_ (B).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Cevin Fisher's Big Freak - The Freaks Come Out (2000 Freaks Mix).wav"/>
@@ -23953,7 +23953,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_E-Smoove - Be With You (Vocal Vibes).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Ja'nel - I'm a Queen (Lenny Fontana Ga_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Ja'nel - I'm a Queen (Lenny Fontana Ga_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Backroom Congregation - Sunday Morning (Church Mix).wav"/>
@@ -23974,25 +23974,25 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Celetia - Rewind (Silk's Anthem Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Harry &quot;Choo Choo&quot; Romero _ - Just Can't Get Enough (Live Element's Remix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Harry &quot;Choo Choo&quot; Romero _ - Just Can't Get Enough (Live Element's Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Harry &quot;Choo Choo&quot; Romero _ - Just Can't Get Enough (Pete Heller's La_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Harry &quot;Choo Choo&quot; Romero _ - Just Can't Get Enough (Pete Heller's La_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Harry &quot;Choo Choo&quot; Romero _ - Just Can't Get Enough (Robbie Rivera's _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Harry &quot;Choo Choo&quot; Romero _ - Just Can't Get Enough (Robbie Rivera's _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Harry &quot;Choo Choo&quot; Romero _ - Just Can't Get Enough (Robbie Rivera's _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Harry &quot;Choo Choo&quot; Romero _ - Just Can't Get Enough (Robbie Rivera's _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Rachid - Pride (Accapella).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Rachid - Pride (Dobie's &quot;It's A _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Rachid - Pride (Dobie's &quot;It's A _).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Rachid - Pride (Mindswerve's Par_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_Rachid - Pride (Mindswerve's Par_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Rachid - Pride (Mood II Swing's Remix).wav"/>
@@ -24001,10 +24001,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_The Rolling Stones - Saint Of Me (Deep Dish Rolling Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_The Rolling Stones - Saint Of Me (Deep Dish Grunge_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_The Rolling Stones - Saint Of Me (Deep Dish Grunge_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_The Rolling Stones - Saint Of Me (Deep Dish Grunge_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:v_The Rolling Stones - Saint Of Me (Deep Dish Grunge_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:v_Black Masses - Wonderful Person (MAW Vocal Mix).wav"/>
@@ -24013,13 +24013,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Junior Sanchez - N.A.S.T.Y.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Aaron-Carl - Dance Naked (C&amp;M Sticky Finge_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Aaron-Carl - Dance Naked (C&amp;M Sticky Finge_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Harry 'Choo Choo' Romero _ - Just Can't Get Enough (Pete's Latino Vo_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Harry 'Choo Choo' Romero _ - Just Can't Get Enough (Pete's Latino Vo_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Harry 'Choo Choo' Romero _ - Just Can't Get Enough (Robbie Rivera's _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Harry 'Choo Choo' Romero _ - Just Can't Get Enough (Robbie Rivera's _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_India - To Be In Love (Full Intention Club).wav"/>
@@ -24040,7 +24040,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Robbie Rivera - This is Juicy.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Session #9 - Welcome To The M_ (Tedd's Big Room Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Session #9 - Welcome To The M_ (Tedd's Big Room Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_D.J Spen - Craze at Midnight.wav"/>
@@ -24070,28 +24070,28 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Basement Jaxx - Rendez-Vu (Extended Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Basement Jaxx - Rendez-Vu (Miracles Keep On_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Basement Jaxx - Rendez-Vu (Miracles Keep On_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Basement Jaxx - Rendez-Vu (Radio Edit).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Black Science Orchestra - Keep On Keepin' On (Spen &amp; Karisma's_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Black Science Orchestra - Keep On Keepin' On (Spen &amp; Karisma's_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Bob Marley _ - Sun Is Shining (ATB Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Bob Marley _ - Sun Is Shining (ATB Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Bob Marley _ - Sun Is Shining (Fukstars Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Bob Marley _ - Sun Is Shining (Fukstars Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Isolee - Beau Mot Plage (Heaven &amp; Earth R_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Isolee - Beau Mot Plage (Heaven &amp; Earth R_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Jamiroquai - Supersonic (Pete Heller - Th_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Jamiroquai - Supersonic (Pete Heller - Th_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_GT Express - Baby Don't Stop (Big Bang Theory _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_GT Express - Baby Don't Stop (Big Bang Theory _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_GT Express - Baby Don't Stop (Original House Mix).wav"/>
@@ -24103,7 +24103,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_GT Express - Baby Don't Stop (Vinyl Soul Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Harry 'Choo Choo' Romero _ - Just Can't Get Enough (Choo Choo's Main_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Harry 'Choo Choo' Romero _ - Just Can't Get Enough (Choo Choo's Main_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Midnight Creeperz - Muneca.wav"/>
@@ -24124,13 +24124,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Aaron-Carl - Dance Naked (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Aaron-Carl - Dance Naked (Soulman's Evicti_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Aaron-Carl - Dance Naked (Soulman's Evicti_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Armand van Helden - Entra Mi Casa (LA Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Bob Marley _ - Sun Is Shining (Rainbow Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Bob Marley _ - Sun Is Shining (Rainbow Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Brother Brown ft Frank'ee - ‎Under The Water (Breeder's UK Sub-merge Mix).wav"/>
@@ -24157,7 +24157,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Frank 'O Moiraghi - I Don't Need It.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention _ - (Do The) Spanish_ (Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention _ - (Do The) Spanish_ (Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_India - To Be In Love (MAW '99 Mix).wav"/>
@@ -24169,7 +24169,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Isolee - Beau Mot Plage (DJ Q Remix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Johnny D &amp; Nicky P - Yes You Dew (Henry Street Ins_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Johnny D &amp; Nicky P - Yes You Dew (Henry Street Ins_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Johnny D &amp; Nicky P - Yes You Dew (Henry Street Mix).wav"/>
@@ -24181,16 +24181,16 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Junior Sanchez - Dream Myself Alive.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Junior Sanchez _ - B With U.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Junior Sanchez _ - B With U.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention _ - (Do The) Spanish_ (Dub Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention _ - (Do The) Spanish_ (Dub Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Full Intention _ - Can't Understand (Club Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Full Intention _ - Can't Understand (Club Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_GT Express - Baby Don't Stop (Big Bang Theory _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_GT Express - Baby Don't Stop (Big Bang Theory _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Liquid Woman - Come And Go With Me (Anthem Radio Edit).wav"/>
@@ -24229,10 +24229,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Robbie Rivera - Funky Mama.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Session #9 - Welcome To The M_ (Choo-Choo's Deep_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Session #9 - Welcome To The M_ (Choo-Choo's Deep_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Session #9 - Welcome To The M_ (Choo-Choo's Deep_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Session #9 - Welcome To The M_ (Choo-Choo's Deep_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_The Black Science Orchestra - Sunshine (Sunrise Vocal).wav"/>
@@ -24241,10 +24241,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Those Guys - Sierra Leone (Main).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Aaron-Carl - Dance Naked (C&amp;M Balearic Dra_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Aaron-Carl - Dance Naked (C&amp;M Balearic Dra_).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:v_Black Science Orchestra - Keep On Keepin' On (Problem Kids' Pr_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:v_Black Science Orchestra - Keep On Keepin' On (Problem Kids' Pr_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:v_Loudeast - Lights Off (Original).wav"/>
@@ -24997,7 +24997,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1978/:v_Hamilton Bohannon - Lets Start the Dance.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1978/:v_Hamilton Bohannon - Me and the Gang _.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1978/:v_Hamilton Bohannon - Me and the Gang _.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1978/:v_Chaka Khan - I'm Every Woman (Remix).wav"/>
@@ -25009,7 +25009,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Debbie Jacobs - Under Cover Lover.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1979/:v_Debbie Jacobs - Don't You Want M_.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1979/:v_Debbie Jacobs - Don't You Want M_.wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1987/:v_Frankie Knuckles - Your Love (Original 12&quot; Mix).wav"/>
@@ -25024,7 +25024,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1987/:v_MARRS - Pump Up The Volume.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1987/:v_Frankie Knuckles _ - Baby Wants to Ride (Original 12&quot; Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1987/:v_Frankie Knuckles _ - Baby Wants to Ride (Original 12&quot; Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1990/:v_Alison Limerick - Where Love Lives (Cut To The Bone).wav"/>
@@ -25072,7 +25072,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1977/:TConnection - Do What You Wanna Do (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1977/:TConnection - On Fire 1977 Rec_ (Original Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1977/:TConnection - On Fire 1977 Rec_ (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1980/:v_Rufus &amp; Chaka Khan - Any Love.wav"/>
@@ -25090,7 +25090,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1985/:v_Tramaine - Fall Down (Dub Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1985/:v_Tramaine - Fall Down (Extended Vocal V_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1985/:v_Tramaine - Fall Down (Extended Vocal V_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1985/:v_Tramaine - Fall Down (Instrumental).wav"/>
@@ -25099,19 +25099,19 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1985/:v_Tramaine - Fall Down (Acappella Vocal).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1985/:v_Tramaine - Fall Down_ (Instrumental - Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1985/:v_Tramaine - Fall Down_ (Instrumental - Dub).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1983/:v_Chaka Khan - Ain't Nobody.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1983/:v_George Kranz - Trommeltanz_ (Dub Version).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1983/:v_George Kranz - Trommeltanz_ (Dub Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1983/:v_George Kranz - Trommeltanz_ (Original Version).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1983/:v_George Kranz - Trommeltanz_ (Original Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1983/:v_George Kranz - Trommeltanz_ (Remixed by the M_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1983/:v_George Kranz - Trommeltanz_ (Remixed by the M_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1984/:v_Hugh Masekela - Don't Go Lose It Baby.wav"/>
@@ -25186,10 +25186,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Adele - Rolling in the Deep (Live).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Aretha Franklin - You Keep Me Hang_.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Aretha Franklin - You Keep Me Hang_.m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Black Rascals _ - Keeping In Mind.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Black Rascals _ - Keeping In Mind.m4a"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Daft Punk - Giorgio by Moroder.m4a"/>
@@ -25198,10 +25198,10 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Depeche Mode - Enjoy the Silence (Live In Barcelona).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Depeche Mode - Useless (The Kruder + Dor_).m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Depeche Mode - Useless (The Kruder + Dor_).m4a"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Moodymann - I Can't Kick Thi_.m4a"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1m4a/:Moodymann - I Can't Kick Thi_.m4a"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1m4a/:Simon &amp; Garfunkel - The Sound of Silence.m4a"/>
@@ -25234,7 +25234,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:Masters At Work - Our Mute Horn (Ken Lou Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1991/:Photon Inc. _ - Generate Power (Wild Pitch Mix -_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1991/:Photon Inc. _ - Generate Power (Wild Pitch Mix -_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1992/:Azucar - Feel The Love (Joey Negro Club Mix).wav"/>
@@ -25255,28 +25255,28 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1994/:Danell Dixon - Hallellujia.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Mike Delgado _ - Gonna Luv You.wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Mike Delgado _ - Gonna Luv You.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Joe T Vannelli _ - Sweetest Day Of May (Club Gospel Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Joe T Vannelli _ - Sweetest Day Of May (Club Gospel Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Xaviera Gold - Bad Girls (12&quot;).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Xaviera Gold - Bad Girls (Dirty Bad Girls _).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Xaviera Gold - Bad Girls (Dirty Bad Girls _).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Xaviera Gold - Bad Girls (Dirty Bad Girls Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1995/:Carolyn Harding _ - Sing A Song (MAW's Instrumental).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1995/:Carolyn Harding _ - Sing A Song (MAW's Instrumental).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Funky Green Dogs - Fired Up! (Murks Original Groove).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Lood _ - Shout-N-Out (The DJ Dub).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:Lood _ - Shout-N-Out (The DJ Dub).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Mike Delgado - Subtle Hardness.wav"/>
@@ -25285,7 +25285,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Djaimin &amp; Rose - Finally (1994 Version).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1996/:Djaimin - Hindu Lover (Roger Sanchez Or_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1996/:Djaimin - Hindu Lover (Roger Sanchez Or_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_D.Funk Era - ‎Spring.wav"/>
@@ -25297,13 +25297,13 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:Paul Jacobs - Happy Days (95 North Dub).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:Rick Wilhite - Drum Patterns Me_ (Moodymann Unrele_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1997/:Rick Wilhite - Drum Patterns Me_ (Moodymann Unrele_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1997/:v_D.Funk Era - ‎The Goddess.wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:Departure Lounge _ - DL2 (Facedowns reEdit).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1998/:Departure Lounge _ - DL2 (Facedowns reEdit).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1998/:Jark Prongo - Wave 2081 (Vinyl Album Version).wav"/>
@@ -25312,7 +25312,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Jason Jinx - The NY Experience (Jinx Super Chunk Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Mike Delgado - Byrdman's Revenge (Rhythm Masters U_).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:Mike Delgado - Byrdman's Revenge (Rhythm Masters U_).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:SOL - Quantensprung 1.wav"/>
@@ -25321,7 +25321,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Mike Delgado - Byrdman's Revenge (Original Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1999/:Fire Island _ - There But For Th_ (Joey Negro Mix).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1999/:Fire Island _ - There But For Th_ (Joey Negro Mix).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2000/:Fred Falke &amp; Alan Braxe - Intro.wav"/>
@@ -25468,7 +25468,7 @@
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1990/:Earth People - Dance (Beats Mix).wav"/>
             </ENTRY>
             <ENTRY>
-              <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:1980/:Grace Jones - I've Seen That F_ (Libertango).wav"/>
+              <PRIMARYKEY TYPE="TRACK" KEY="/:tracks/:1980/:Grace Jones - I've Seen That F_ (Libertango).wav"/>
             </ENTRY>
             <ENTRY>
               <PRIMARYKEY TYPE="TRACK" KEY="PDJ EXT HD1/:Waves/:2012/:Mr Bizz - Exit.wav"/>
